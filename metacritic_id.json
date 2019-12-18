@@ -45,6 +45,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/shadows-2-perfidia"
     },
+    "010000100C4B8000": {
+        "id": "010000100C4B8000",
+        "nsuId": 70010000014376,
+        "name": "Jamestown+",
+        "eshop_name": "Jamestown+",
+        "metacritic_platform": "switch",
+        "metascore": "83",
+        "userscore": null,
+        "release": "20191212",
+        "description": "Jamestown: Legend Of The Lost Colony is a neo-classical top-down shooter for up to 4 players, set on 17th-century British Colonial Mars. It features all the intensity, depth, and lovingly handcrafted pixels of a classic arcade shooter, with a modern twist: deeply-integrated cooperative gameplay.\n\nUnlike most top-down shooters, which give multiple players a shared pool of lives or continues, Jamestown does something different. So long as any player survives, the team can be brought back from death. By giving every player the power to rescue their team from the jaws of destruction, Jamestown creates an exhilarating cooperative experience where everyones contribution truly matters. Win or lose, your team will do it together.\n\nKey features:\n\n- Blast your way through historic Mars as a crack team of up to 4 friends in local co-op mode\n- Marvel and rejoice at vast expanses of lovingly handcrafted pixels\n- Escape into a fast-paced story of swashbuckling redemption\n- Epic orchestral scores composed by Francisco Cerda, unique to each level\n- Brave the hostile Martian frontier with your pick of 1619s finest steampunk weaponry\n- Master innovative co-op mechanics paired with classical top-down shooter gameplay\n- Test your skills against 20+ rule-bending bonus levels\n- Run the Gauntlet arcade mode, and play Jamestown like its 1996\n- Leverage the unique scoring system to claw your way up the online leaderboards",
+        "AgeRating": 6,
+        "category": [
+            "Action",
+            "Shooter",
+            "Multiplayer",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/jamestown+"
+    },
     "010000300B4EE000": {
         "id": "010000300B4EE000",
         "nsuId": 70010000011185,
@@ -1206,6 +1228,29 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/super-dodgeball-beats"
     },
+    "010003A00D0B4000": {
+        "id": "010003A00D0B4000",
+        "nsuId": 70010000016219,
+        "name": "SaGa: Scarlet Grace - Ambitions",
+        "eshop_name": "SaGa SCARLET GRACE: AMBITIONS\u2122",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019122",
+        "description": "Originally released in Japan in 2016, SaGa SCARLET GRACE lets you pick one of four distinct heroes - each with their own unique storylines. That means you essentially have four RPGs in a single game.\n\nThe version that launches in the West as SaGa SCARLET GRACE: AMBITIONS improves things further, with enhanced graphics, character voiceovers, new skills to learn and much more.",
+        "AgeRating": 13,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Fantasy Violence",
+            "Mild Language",
+            "Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/saga-scarlet-grace---ambitions"
+    },
     "010003A00EA90000": {
         "id": "010003A00EA90000",
         "nsuId": 70010000021105,
@@ -1322,6 +1367,26 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/happy-birthdays"
+    },
+    "010003E00FB90000": {
+        "id": "010003E00FB90000",
+        "nsuId": 70010000024436,
+        "name": "SuperEpic: The Entertainment War",
+        "eshop_name": "SuperEpic: The Entertainment War",
+        "metacritic_platform": "switch",
+        "metascore": "78",
+        "userscore": null,
+        "release": "20191212",
+        "description": "In a not-too-distant future dystopia\u200b, a single videogame development company, \u200bRegnantcorp, controls an Orwellian society by enslaving the population with their addictive free game\u200bs. As a rebellious racoon, along with your llama steed, you'll explore a surreal castle-like office full of enemies, challenges, secrets and corporate pigs.",
+        "AgeRating": 12,
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Bad Language"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/superepic-the-entertainment-war"
     },
     "010003F003A34000": {
         "id": "010003F003A34000",
@@ -2785,6 +2850,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/dragon-quest-builders-2"
     },
+    "010008A00F632000": {
+        "id": "010008A00F632000",
+        "nsuId": 70010000022873,
+        "name": "Ghostbusters: The Video Game Remastered",
+        "eshop_name": "Ghostbusters: The Video Game Remastered",
+        "metacritic_platform": "switch",
+        "metascore": "72",
+        "userscore": null,
+        "release": "2019104",
+        "description": "Strap on your proton pack once again and join the Ghostbusters on the adventure with the voice and likeness of the original crew as you battle to save New York. Authentic Ghostbusters Experience - The game features the voices and in-game likenesses of Bill Murray, Dan Aykroyd, Harold Ramis, and Ernie Hudson in an original story penned by the writers of the original films - Dan Aykroyd and Harold Ramis. Unique Gameplay - Experience unique ghost hunting, wrangling and trapping with upgradeable weapons in widely destructible environments. Test the team's mettle with large scale boss fights.   Storyline Campaign - Play through a unique storyline as the player battles and captures ghosts - both well-loved and brand new - throughout New York.",
+        "AgeRating": 12,
+        "category": [
+            "\u30a2\u30af\u30b7\u30e7\u30f3",
+            "\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0"
+        ],
+        "ratingContent": [
+            "\u66b4\u529b"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/ghostbusters-the-video-game-remastered"
+    },
     "010008C00B2F2000": {
         "id": "010008C00B2F2000",
         "nsuId": 70010000013451,
@@ -3346,6 +3431,28 @@
             "Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/dream-alone"
+    },
+    "01000AA00D30E000": {
+        "id": "01000AA00D30E000",
+        "nsuId": 70010000016632,
+        "name": "TheNightfall",
+        "eshop_name": "TheNightfall",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "A new city, a new job and a new home - everything seems wonderful! But appearances are deceptive. You spend the first night alone in your new house! Darkness falls and a night begins that you have never experienced before.  What begins with insomnia and a slight malaise becomes an absolute nightmare over time. This is a very special house that doesn't just mean good to you.  Will you be able to survive this night until dawn?",
+        "AgeRating": 17,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Strong Language",
+            "Suggestive Themes",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/thenightfall"
     },
     "01000AC00F5EC000": {
         "id": "01000AC00F5EC000",
@@ -4053,6 +4160,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/brothers-a-tale-of-two-sons"
     },
+    "01000D600EFC4000": {
+        "id": "01000D600EFC4000",
+        "nsuId": 70010000022157,
+        "name": "Gemstone Keeper",
+        "eshop_name": "Gemstone Keeper",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191127",
+        "description": "Gemstone Keeper is an action twin-stick roguelike shooter where a brave explorer can traverse a large and mystical cavern to search for rare and precious gemstones. The deeper an explorer goes into the caverns, the more valuable gemstones that can be found, however at the risk of facing more of the dangerous and hostile creatures that live there, including creatures that are larger than life.",
+        "AgeRating": 10,
+        "category": [
+            "Arcade",
+            "Shooter",
+            "Adventure",
+            "Other"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/gemstone-keeper"
+    },
     "01000D70049BE000": {
         "id": "01000D70049BE000",
         "nsuId": 70010000001425,
@@ -4200,6 +4329,24 @@
             "Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-ikki"
+    },
+    "01000DC003740000": {
+        "id": "01000DC003740000",
+        "nsuId": 70030000000101,
+        "name": "Puyo Puyo Tetris",
+        "eshop_name": "Puyo Puyo Tetris Demo",
+        "metacritic_platform": "switch",
+        "metascore": "81",
+        "userscore": "81",
+        "release": "20170425",
+        "description": "Two puzzle game juggernauts collide as Tetris, one of the largest-selling and recognized brands in gaming history, and Puyo Puyo from SEGA have combined to create a fun-to-play, fast-paced, competitive party game like no other! The game has tons of different styles of gameplay  from the single-player Adventure and Challenge modes to the ferocious competition of the up-to-four player Arcade modes. There's plenty of Tetris/Puyo variety, even an in-game Shop where players can unlock new characters, new skins for Puyos and Tetriminos, new backgrounds and more.\r\n\r\nFeatures:\r\n\r\n*    Adventure  Single-player mode offers ten unique acts, each with ten stages featuring different characters from the Puyo Puyo and Tetris universes. Each stage contains unique challenges players will need to overcome in order to win and move on!\r\n*    Multiplayer Arcade  For up to four local players, Multiplayer Arcade offers a wealth of variety that will bring out players' competitive nature!\r\n*    Online  Players can try their puzzle skills on a global scale by playing any of the multiplayer modes with up to four players online, in Puzzle League or Free Play modes.\r\n*    Solo Arcade  Play any of the Multiplayer Arcade modes against the CPU in Battle or Endurance matches, or try the single-player Challenges!",
+        "AgeRating": 10,
+        "category": null,
+        "ratingContent": [
+            "Comic Mischief",
+            "Mild Suggestive Themes"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/puyo-puyo-tetris"
     },
     "01000DC007E90000": {
         "id": "01000DC007E90000",
@@ -4388,6 +4535,23 @@
             "Mild Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/hyperide-vector-raid"
+    },
+    "01000E200DC58000": {
+        "id": "01000E200DC58000",
+        "nsuId": 70010000021223,
+        "name": "Octopath Traveler",
+        "eshop_name": "OCTOPATH TRAVELER \u6b67\u8def\u65c5\u4eba",
+        "metacritic_platform": "switch",
+        "metascore": "83",
+        "userscore": "86",
+        "release": "20180712",
+        "description": "Embark on a vast new role-playing adventure as one of eight travelers, all with their own origins, paths, and goals. The producers of the Bravely series at Square Enix have brought a new world to life through a mix of CG, pixel art, and \"HD-2D\" visuals. Embark on a vast new role-playing adventure as one of eight travelers, all with their own origins, paths, and goals. Where to begin? Who to team up with? Where to go next? Only you can decide. Each traveler can use a distinct Path Action, a specialized way of achieving objectives and interacting with people you encounter. The warrior can \"challenge\" people to a duel, whereas the dancer can \"allure\" others to follow her, even into battle! Enjoy the freedom to choose your own path while experiencing the story through the role you play. Combat revolves around the Boost system, a fusion of traditional turn-based battling and modern enhancements. Each turn, build up BP that can be spent to dramatically increase your strength or provide aid. Identifying when to Boost may just be the key to victory.\r\n\r\n*    A new RPG adventure from the minds at Square Enix who brought you the Bravely series\r\n*    Choose from eight distinct characters, each with their own path, and see where the story takes you\r\n*    Music and visuals inspired by RPGs of yore, brought to life with modern touches\r\n    Deep, strategic turn-based combat with an innovative battle system\r\n*    Enjoy the free demo in Nintendo eShop and help make this an RPG for the ages by sharing your feedback with Square Enix",
+        "AgeRating": null,
+        "category": [
+            "\u89d2\u8272\u626e\u6f14"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/octopath-traveler"
     },
     "01000E30042F2000": {
         "id": "01000E30042F2000",
@@ -6013,6 +6177,29 @@
             "Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/yomawari-the-long-night-collection"
+    },
+    "010013700DA4A000": {
+        "id": "010013700DA4A000",
+        "nsuId": 70010000018577,
+        "name": "Neverwinter Nights: Enhanced Edition",
+        "eshop_name": "Neverwinter Nights: Enhanced Edition",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019123",
+        "description": "Neverwinter Nights: Enhanced Edition adds all-new enhanced features to the playable content of Neverwinter Nights Diamond Edition.\n\nSlink through the shadows as a deadly half-elven rogue, wield fearsome magics as a powerful gnomish sorcerer, vanquish your foes as an armor-clad dwarven paladin... whatever hero you create, incredible adventures await.\n\nDiscover magic, wonder, and danger at every turn on your own or with friends in these classic Dungeons & Dragons adventures.\n\nEnhanced Features:\n- Mobile Play: A new virtual joystick and context sensitive button makes gameplay easy\n- Improved Display: Featuring a new re-engineered UI for tablet and phone play. Portrait, combat bar, inventory, and other UI elements adjust in size based on device resolution, and can be scaled to your liking.\n- Advanced Graphics Options: Pixel shaders and post-processing effects make for crisper, cleaner visuals. Enable contrast, vibrance, and depth of field options as preferred.\n- Community Endorsed: Original developers have teamed with key members of the Neverwinter Nights community to curate important fan-requested improvements to support players, storytellers, and modders. \n- Backwards Compatibility: Works with save games, modules, and mods from the original Neverwinter Nights. A galaxy of community created content awaits.\n- Cross-Platform Multiplayer: Experience vast persistent worlds and game online with friends playing on mobile or desktop.\n\nAll the playable content of Neverwinter Nights Diamond Edition:\n- The original Neverwinter Nights campaign: Find yourself at the center of intrigue, betrayal, and dark magic in Neverwinter Nights. Journey through dangerous cities, monster filled dungeons and deep into uncharted wilderness in search of the cure for a cursed plague ravaging the city of Neverwinter. \n\nTwo expansion packs: \n- Shadows of Undrentide: Another adventure begins in Shadows of Undrentide! Charged by your master to recover four ancient artifacts, travel from the Silver Marches to unravel mysteries of a long-dead magical civilization. \n- Hordes of the Underdark: Continue the adventure started in Shadows of Undrentide and journey into the ever-more bizarre and hostile depths of Undermountain to challenge a gathering evil.",
+        "AgeRating": 17,
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Sexual Themes",
+            "Violence",
+            "Users Interact"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/neverwinter-nights-enhanced-edition"
     },
     "010013800BE2C000": {
         "id": "010013800BE2C000",
@@ -10165,6 +10352,28 @@
         "ratingContent": null,
         "metacritic_url": "https://www.metacritic.com/game/switch/rxn-raijin"
     },
+    "010022A009368000": {
+        "id": "010022A009368000",
+        "nsuId": 70010000008761,
+        "name": "Voxel Shot for Nintendo Switch",
+        "eshop_name": "Voxel Shot for Nintendo Switch\uff08\u30dc\u30af\u30bb\u30eb\u30b7\u30e7\u30c3\u30c8\uff09",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20180713",
+        "description": "",
+        "AgeRating": 12,
+        "category": [
+            "\u30d1\u30fc\u30c6\u30a3\u30fc",
+            "\u30a2\u30af\u30b7\u30e7\u30f3",
+            "\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0",
+            "\u30ec\u30fc\u30b9"
+        ],
+        "ratingContent": [
+            "\u66b4\u529b"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/voxel-shot-for-nintendo-switch"
+    },
     "010022B00ACE6000": {
         "id": "010022B00ACE6000",
         "nsuId": 70010000009852,
@@ -10941,6 +11150,21 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/gato-roboto"
     },
+    "0100256006BF8000": {
+        "id": "0100256006BF8000",
+        "nsuId": null,
+        "name": "Wonder Boy: The Dragon's Trap",
+        "eshop_name": "Wonder Boy: The Dragon's Trap",
+        "metacritic_platform": "switch",
+        "metascore": "79",
+        "userscore": "80",
+        "release": "20170418",
+        "description": "Boasting beautiful, hand-drawn animations and a re-orchestrated soundtrack, the cult classic returns with a unique blend of exploration, action, and adventure!\r\n\r\nCursed into a half-human, half-lizard monstrosity by the Meka-Dragon, you are in search for a cure! The only way you can return to human form is to find the Salamander Cross, a magical item with the power to remove curses...\r\n\r\nWith each dragon slain, the curse intensifies, transforming you into different animals! Explore large, interconnected locations populated with grumpy monsters and exotic dragons!\r\n\r\nPlay as the games classic character, Hu-Man, or as his brand-new, long-awaited co-star Hu-Girl. You can also inhabit Lizard-Man, Mouse-Man, Piranha-Man, Lion-Man, and Hawk-Man, and use their unique abilities to uncover the lands deepest secrets.\r\nEnjoy 3 difficulty levels catering to players of all types, and switch from modern graphics and sound to 8-bit graphics/audio at any time - even during gameplay!",
+        "AgeRating": null,
+        "category": null,
+        "ratingContent": null,
+        "metacritic_url": "https://www.metacritic.com/game/switch/wonder-boy-the-dragons-trap"
+    },
     "01002580038DE000": {
         "id": "01002580038DE000",
         "nsuId": 70010000000345,
@@ -11166,6 +11390,28 @@
             "Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/epic-loon"
+    },
+    "010026200FF36000": {
+        "id": "010026200FF36000",
+        "nsuId": 70010000025448,
+        "name": "Jets 'n' Guns",
+        "eshop_name": "Jets'n'Guns",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191216",
+        "description": "",
+        "AgeRating": 15,
+        "category": [
+            "Arcade",
+            "Action",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Strong Crude Humour",
+            "Strong Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/jets-n-guns"
     },
     "010026300BA4A000": {
         "id": "010026300BA4A000",
@@ -11500,6 +11746,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/okami-hd"
     },
+    "010027700FD2E000": {
+        "id": "010027700FD2E000",
+        "nsuId": 70010000026331,
+        "name": "Decay of Logos",
+        "eshop_name": "Decay of Logos",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "Embark on a journey of revenge and betrayal set in motion by the destruction of our young adventurer\u2019s village at the hands of Crimson Knights. Find solace in your trusty elk companion as you battle the unforgiving foes that roam this once peaceful realm. Venture into ancient ruins and dungeons in search of its rewards in a quest to find the truth behind the attack of Ada\u2019s home.",
+        "AgeRating": 13,
+        "category": [
+            "Adventure",
+            "RPG",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/decay-of-logos"
+    },
     "010027800FECE000": {
         "id": "010027800FECE000",
         "nsuId": 70010000025194,
@@ -11557,6 +11825,29 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/sudoku-relax"
+    },
+    "010027B00E40E000": {
+        "id": "010027B00E40E000",
+        "nsuId": 70010000019940,
+        "name": "Ashen",
+        "eshop_name": "Ashen",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": "77",
+        "release": "2019129",
+        "description": "Ashen is an open world co-op action RPG about a wanderer in search of a place to call home. As you adventure through Ashen, you\u2019ll occasionally encounter other players in a massive open world. It\u2019s up to you to decide how to deal with them \u2014 fight together against evil, invite them into your party or simply ignore them.",
+        "AgeRating": 13,
+        "category": [
+            "RPG",
+            "Action",
+            "Adventure",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/ashen"
     },
     "010027D00F63C000": {
         "id": "010027D00F63C000",
@@ -11853,6 +12144,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/sparkle-2"
     },
+    "010028D005A3C000": {
+        "id": "010028D005A3C000",
+        "nsuId": 70010000001370,
+        "name": "The Elder Scrolls V: Skyrim",
+        "eshop_name": "The Elder Scrolls V: Skyrim\u00ae",
+        "metacritic_platform": "switch",
+        "metascore": "84",
+        "userscore": "83",
+        "release": "20171117",
+        "description": "The open-world adventure from Bethesda Game Studios where you can virtually be anyone and do anything, now allows you to go anywhere\u2014at home and on the go. New features include motion controls, gear based on the Legend of Zelda series, and amiibo compatibility. Dragons, long lost to the passages of the Elder Scrolls, have returned and the future of Skyrim hangs in the balance. As Dragonborn, the prophesized hero born with the power of The Voice, you are the only one who can stand against them. Live another life, in another world\u2014from battling ancient dragons, exploring rugged mountains, building a home, or mastering hundreds of weapons, spells and abilities. For the first time ever, go into battle Legend of Zelda style: fight with the Master Sword, guard with the Hylian Shield, while wearing the Champion's Tunic. The game also includes official add-ons\u2014Dawnguard, Hearthfire, and Dragonborn. [Nintendo]",
+        "AgeRating": 18,
+        "category": [
+            "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0"
+        ],
+        "ratingContent": [
+            "\u66b4\u529b",
+            "\u72af\u7f6a"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/the-elder-scrolls-v-skyrim"
+    },
     "010028D005A3D001": {
         "id": "010028D005A3D001",
         "nsuId": 70050000003641,
@@ -11876,6 +12187,24 @@
         "nsuId": 70050000003642,
         "name": "The Elder Scrolls V: Skyrim",
         "eshop_name": "The Elder Scrolls V: Skyrim \u8a00\u8a9e\u30d1\u30c3\u30af\uff1a\u82f1\u8a9e",
+        "metacritic_platform": "switch",
+        "metascore": "84",
+        "userscore": "83",
+        "release": "20171117",
+        "description": "The open-world adventure from Bethesda Game Studios where you can virtually be anyone and do anything, now allows you to go anywhere\u2014at home and on the go. New features include motion controls, gear based on the Legend of Zelda series, and amiibo compatibility. Dragons, long lost to the passages of the Elder Scrolls, have returned and the future of Skyrim hangs in the balance. As Dragonborn, the prophesized hero born with the power of The Voice, you are the only one who can stand against them. Live another life, in another world\u2014from battling ancient dragons, exploring rugged mountains, building a home, or mastering hundreds of weapons, spells and abilities. For the first time ever, go into battle Legend of Zelda style: fight with the Master Sword, guard with the Hylian Shield, while wearing the Champion's Tunic. The game also includes official add-ons\u2014Dawnguard, Hearthfire, and Dragonborn. [Nintendo]",
+        "AgeRating": 18,
+        "category": null,
+        "ratingContent": [
+            "\u66b4\u529b",
+            "\u72af\u7f6a"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/the-elder-scrolls-v-skyrim"
+    },
+    "010028D005A3D008": {
+        "id": "010028D005A3D008",
+        "nsuId": 70050000003646,
+        "name": "The Elder Scrolls V: Skyrim",
+        "eshop_name": "The Elder Scrolls V: Skyrim \u8a00\u8a9e\u30d1\u30c3\u30af\uff1a\u30ed\u30b7\u30a2\u8a9e",
         "metacritic_platform": "switch",
         "metascore": "84",
         "userscore": "83",
@@ -12903,6 +13232,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/the-saviors-gang"
     },
+    "01002BA00D662000": {
+        "id": "01002BA00D662000",
+        "nsuId": 70010000018689,
+        "name": "Pine",
+        "eshop_name": "Pine",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191126",
+        "description": "Pine is an open-world action adventure simulation game. Take on the role of Hue, a brave young adult who belongs to the last remaining tribe of humans on the island of Albamare. Find your way through an ever-changing world in which all creatures have lives, goals and quests of their own. Albamare\u2019s factions trade and fight with each other over food and territory, while Hue learns about ways to influence the ecology, in search for a new home for the humans.",
+        "AgeRating": 10,
+        "category": [
+            "Adventure",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/pine"
+    },
     "01002BB00C01E000": {
         "id": "01002BB00C01E000",
         "nsuId": 70010000013604,
@@ -13052,6 +13401,21 @@
             "Music",
             "Party"
         ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/taiko-no-tatsujin-drum-n-fun!"
+    },
+    "01002C000B553009": {
+        "id": "01002C000B553009",
+        "nsuId": 70050000008724,
+        "name": "Taiko no Tatsujin: Drum 'n' Fun!",
+        "eshop_name": "Taiko no Tatsujin: Drum 'n' Fun! Jupiter",
+        "metacritic_platform": "switch",
+        "metascore": "78",
+        "userscore": "80",
+        "release": "2018112",
+        "description": "Enjoy the cult classic arcade rhythm game from Japan in the comfort of your own home! Play to the beat using your own drum with wide variety of new songs and challenge your friends to prove who has the best taiko skills. Use motion controls to enjoy Taiko like never before! Unlock beloved characters to help you on your journey to become a legendary taiko drummer! Utilize the interactive features of the Nintendo Switch to connect, share, and play with family and friends.",
+        "AgeRating": 6,
+        "category": null,
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/taiko-no-tatsujin-drum-n-fun!"
     },
@@ -13270,6 +13634,29 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/puzzle-wall"
+    },
+    "01002C900C9AC000": {
+        "id": "01002C900C9AC000",
+        "nsuId": 70010000015183,
+        "name": "Chaos on Deponia",
+        "eshop_name": "Chaos on Deponia",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191129",
+        "description": "The wait is over! It is finally here - the new game from the makers of Edna , The Whispered World , Harvey's New Eyes , and DSA: Satinav's chains . The sequel to the best marks showered with prizes and Adventures is here, and this adventure is the same train still lively, whimsical and wacky. With \"chaos in Raccoon\" the genre of classic point and click adventure is once again brought to life and inspires. With an exciting story, likeable characters, but witty dialogue and a finely tuned combination of good jokes and riddles excited chaos in Raccoon young and old of the same dimensions.",
+        "AgeRating": 13,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Cartoon Violence",
+            "Crude Humor",
+            "Language",
+            "Suggestive Themes",
+            "Use of Tobacco"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/chaos-on-deponia"
     },
     "01002CB006AFA000": {
         "id": "01002CB006AFA000",
@@ -14829,6 +15216,29 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/cricktogame-nintendo-switch-edition"
     },
+    "010032000EA2C000": {
+        "id": "010032000EA2C000",
+        "nsuId": 70010000021059,
+        "name": "Blacksad: Under the Skin",
+        "eshop_name": "Blacksad: Under the Skin",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191210",
+        "description": "A dark corruption scandal in the heart of the New York City's underworld for charismatic detective John Blacksad!\n\nThe 50s, New York City: Joe Dunn, owner of a boxing club, is found dead. Meanwhile, rising star Bobby Yale, due to take to the ring for the most important fight of his career, has mysteriously disappeared. Sonia Dunn, Joe's daughter, takes over the gym and must deal with its financial woes. She hires private detective John Blacksad to investigate Yale's disappearance. This sinister case will take our investigator to the darkest, most dismal depths of New York.\n\nWith its anthropomorphic characters and its incredible 1950s feel, BLACKSAD: Under the Skin promises all the eerily dark adventure of a detective novel, just like the eponymous comic book series.\n\nConduct the investigation in your own way. Make use of your feline senses as you hunt for new clues. Make decisions on behalf of Blacksad and influence the outcome of the case.",
+        "AgeRating": 17,
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Intense Violence",
+            "Sexual Themes",
+            "Strong Language"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/blacksad-under-the-skin"
+    },
     "010032000EAC6000": {
         "id": "010032000EAC6000",
         "nsuId": 70010000021131,
@@ -16104,6 +16514,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/sheltered"
     },
+    "010037200B346000": {
+        "id": "010037200B346000",
+        "nsuId": 70010000012341,
+        "name": "Victor Vran: Overkill Edition",
+        "eshop_name": "\ube45\ud130 \ube0c\ub780 \uc624\ubc84\ud0ac \uc5d0\ub514\uc158 (Victor Vran Overkill Edition)",
+        "metacritic_platform": "switch",
+        "metascore": "82",
+        "userscore": "79",
+        "release": "20180828",
+        "description": "Overkill Edition includes the fully updated and award winning Action RPG Victor Vran, the expansive Fractured Worlds & the legendary Motorhead: Through The Ages. Look your very best and reinforce your play style with a monumental arsenal of powerful weapons, game-changing outfits, wicked demon powers and fate-binding destiny cards. Redefine how you play at any moment, even in the heat of battle. Modify your demon slaying loadout as you dodge deadly attacks, leap from towering locations and take on hordes of hideous beasts and cunning boss monsters. Fedora or no fedora, you decide! Slaying demons doesn't have to be a lonely affair -- form a pack and find even greater strength in numbers, to explore the story of the dark world together.",
+        "AgeRating": 15,
+        "category": [
+            "\uc561\uc158",
+            "\uc5b4\ub4dc\ubca4\ucc98"
+        ],
+        "ratingContent": [
+            "\ud3ed\ub825\uc131"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/victor-vran-overkill-edition"
+    },
     "010037400C7DA000": {
         "id": "010037400C7DA000",
         "nsuId": 70010000014917,
@@ -16124,6 +16554,27 @@
             "Mild Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/eagle-island"
+    },
+    "0100375009F80000": {
+        "id": "0100375009F80000",
+        "nsuId": 70010000007611,
+        "name": "Let's Sing 2019",
+        "eshop_name": "Let's Sing 11",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20190716",
+        "description": "It\u2019s your time to shine! Whether you\u2019re training your voice solo or celebrating a karaoke party with friends and family \u2013 it will be a success with Let\u2019s Sing 2019\u2019s new game modes and features. More song packages available online.",
+        "AgeRating": 12,
+        "category": [
+            "M\u00fasica",
+            "Fiesta"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Sex"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/lets-sing-2019"
     },
     "010037500C4DE000": {
         "id": "010037500C4DE000",
@@ -16151,6 +16602,23 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/worse-than-death"
     },
+    "010037600B61C000": {
+        "id": "010037600B61C000",
+        "nsuId": 70010000012752,
+        "name": "Little Dragons Cafe",
+        "eshop_name": "Little Dragons Caf\u00e9",
+        "metacritic_platform": "switch",
+        "metascore": "70",
+        "userscore": null,
+        "release": "20180824",
+        "description": "Embrace your parental instincts and Raise your very own Dragon! through wise decisions, proper nutrition, and empathetic nurturing show the world the true potential of your Dragon companion.",
+        "AgeRating": 0,
+        "category": [
+            "\u5192\u96aa"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/little-dragons-cafe"
+    },
     "010037700C9F2000": {
         "id": "010037700C9F2000",
         "nsuId": 70030000004401,
@@ -16165,6 +16633,29 @@
         "category": null,
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/crocs-world"
+    },
+    "010037700E9B8000": {
+        "id": "010037700E9B8000",
+        "nsuId": 70010000020955,
+        "name": "Steins;Gate 0",
+        "eshop_name": "STEINS;GATE 0",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191210",
+        "description": "If you can't save the on you love... ... How can you save humanity?\r\n\r\n- A new story in the critically-acclaimed Steins;Gate series.\r\n- From the depths of despair - explore a whole new world line\r\n- Your favourite characters return alongside a brand new cast!",
+        "AgeRating": 17,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Partial Nudity",
+            "Strong Language",
+            "Suggestive Themes",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/steinsgate-0"
     },
     "0100378002CCA000": {
         "id": "0100378002CCA000",
@@ -16588,6 +17079,28 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/fruitfall-crush"
+    },
+    "010038A00E6C6000": {
+        "id": "010038A00E6C6000",
+        "nsuId": 70010000020389,
+        "name": "Strike Force Kitty",
+        "eshop_name": "Strike Force Kitty",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": "76",
+        "release": "20191129",
+        "description": "Strike Force Kitty is a humorous light platformer all about cats and kittens! Command a squad of four cute kittens to save an adorable princess! Train your tabbies into tigers and... power them up with 350+ costumes to gain super powers! Fight big bosses on your way to save the princess. Acquire costumes from foxes and create crazy combinations of clothing, explore the world, find secrets and save the princess from the clutches of the cunning king! Each costume references pop culture movies, games, comics, anime, and cartoons. The costumes make your kittens stronger and give them special abilities. These abilities allow you to access new areas in each level as you make your way to the princess.",
+        "AgeRating": 6,
+        "category": [
+            "Platformer",
+            "Action",
+            "Strategy",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/strike-force-kitty"
     },
     "010038B0084EA000": {
         "id": "010038B0084EA000",
@@ -17371,6 +17884,24 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/slabwell-the-quest-for-kaktuns-alpaca"
     },
+    "01003AE00A872000": {
+        "id": "01003AE00A872000",
+        "nsuId": 70030000002281,
+        "name": "One More Dungeon",
+        "eshop_name": "One More Dungeon Demo",
+        "metacritic_platform": "switch",
+        "metascore": "64",
+        "userscore": null,
+        "release": "20171214",
+        "description": "One More Dungeon is a first person shooter roguelike with procedurally generated levels and pixel-art graphics. Being a nameless adventure seeker, your job is to reach the final level deep within the dungeon and destroy the obelisks that are used by forces of Evil to invade the world.",
+        "AgeRating": 13,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/one-more-dungeon"
+    },
     "01003B200B372000": {
         "id": "01003B200B372000",
         "nsuId": 70010000011526,
@@ -17436,6 +17967,25 @@
             "In-Game Purchases"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/battle-supremacy"
+    },
+    "01003B300C99A000": {
+        "id": "01003B300C99A000",
+        "nsuId": 70010000015163,
+        "name": "Fate/Extella Link",
+        "eshop_name": "Fate/EXTELLA LINK",
+        "metacritic_platform": "switch",
+        "metascore": "74",
+        "userscore": null,
+        "release": "20190319",
+        "description": "Picking up right where the 2017 smash hit Fate/EXTELLA: The Umbral Star left off, Fate/EXTELLA LINK adds 10 Servants to the original roster of 16. The high-speed action gameplay has been refined, and players will battle their way through massive invading armies to wrest back control of SE.RA.PH. from an invading force. Players on the PlayStation\u00ae4 can now engage in massive 4-on-4 online battles with up to 7 other players. Choose your favorite Servant and make your foes quiver at the true name of their Noble Phantasm.",
+        "AgeRating": 15,
+        "category": [
+            "\u52d5\u4f5c",
+            "\u683c\u9b25",
+            "\u5192\u96aa"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/fateextella-link"
     },
     "01003B300E4AA000": {
         "id": "01003B300E4AA000",
@@ -17834,6 +18384,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/aca-neogeo-2020-super-baseball"
     },
+    "01003C400AD42000": {
+        "id": "01003C400AD42000",
+        "nsuId": 70010000010048,
+        "name": "Rescue Tale",
+        "eshop_name": "Rescue Tale",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191125",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Platformer",
+            "Adventure",
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/rescue-tale"
+    },
     "01003C6008940000": {
         "id": "01003C6008940000",
         "nsuId": 70010000004285,
@@ -18005,6 +18577,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/raging-justice"
     },
+    "01003D100E9C6000": {
+        "id": "01003D100E9C6000",
+        "nsuId": 70010000020982,
+        "name": "The Witcher 3: Wild Hunt - Complete Edition",
+        "eshop_name": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "metacritic_platform": "switch",
+        "metascore": "85",
+        "userscore": "87",
+        "release": "20191015",
+        "description": "AKA \"Switcher 3\".... A whole world to explore, at home and on the go. The Witcher 3: Wild Hunt is a story-driven, open world adventure set in a dark fantasy universe. You are Geralt of Rivia, mercenary monster slayer. At your disposal is every tool of the trade: razor-sharp swords, lethal mixtures, stealthy crossbows, and powerful combat magic. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.\r\n\r\nThe Complete Edition contains every piece of downloadable content released for the game, including two massive story expansions: Hearts of Stone & Blood and Wine. It's the perfect opportunity to enter this world for the first time or relive the adventure on the go!\r\n\r\nFeatures:\r\n\r\n* A gigantic open world to explore.\r\n Visit the luxurious and corrupt city of Novigrad, face the frigid cold of the wind-swept Skellige islands, and challenge the dark forces roaming the forlorn, ravaged No Man's Land. Sail through open seas, dive in search of long lost artifacts or gallop your mount into combat the world of the Witcher beckons to be explored.\r\n\r\n* Unparalleled novel-like story spanning over 150 hours of gameplay.\r\n With over 100 hours of core and side-quest gameplay and over 50 hours of additional content, The Witcher 3: Wild Hunt combines the intense, plot-driven pull of traditional RPGs with the freedom of choice only open world games can offer. Make choices and face their consequences to unlock endings tailored to how you play.\r\n\r\n* Now on Switch play at home and on the go.\r\n Developed to take advantage of everything Nintendo Switch has to offer, the game delivers a truly powerful on-the-go experience.",
+        "AgeRating": 18,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/the-witcher-3-wild-hunt---complete-edition"
+    },
     "01003D3009996000": {
         "id": "01003D3009996000",
         "nsuId": 70010000006722,
@@ -18024,6 +18616,29 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/totes-the-goat"
+    },
+    "01003D50100F4000": {
+        "id": "01003D50100F4000",
+        "nsuId": 70010000025757,
+        "name": "Breathing Fear",
+        "eshop_name": "Breathing Fear",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019126",
+        "description": "Embark on a nonlinear and scary survival-adventure game. Why are you in this abandoned house in the woods? Is it fate? The only thing you know for sure is that strange things need to be solved - disturbing letters, objects, recordings, paranormal events... They drive you crazy but you need to keep a clear mind and shed some light on those mysteries.",
+        "AgeRating": 13,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Use of Alcohol",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/breathing-fear"
     },
     "01003D7002CC0000": {
         "id": "01003D7002CC0000",
@@ -19120,6 +19735,32 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/fractured-minds"
     },
+    "010042000A986000": {
+        "id": "010042000A986000",
+        "nsuId": 70010000009167,
+        "name": "Dragon Quest Builders 2",
+        "eshop_name": "DRAGON QUEST BUILDERS\u2122 2",
+        "metacritic_platform": "switch",
+        "metascore": "85",
+        "userscore": "84",
+        "release": "20190712",
+        "description": "To stop the worshippers of an ancient evil, you must join forces with the mysterious Malroth and build a ravaged world into the realm of your dreams. In this RPG adventure, you\u2019ll explore huge islands, gather and craft with materials, design towns, level them up, and defend them from monsters and bosses alongside townspeople. As you progress, you\u2019ll unearth crafting and building recipes. Dash, glide, explore underwater, fast travel, and play in optional first-person perspective as you try to find them all. In the Isle of Awakening, you and up to three other Builders can explore together in local wireless*; or play online** together too.",
+        "AgeRating": 10,
+        "category": [
+            "RPG",
+            "Action"
+        ],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Comic Mischief",
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Suggestive Themes",
+            "Users Interact"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/dragon-quest-builders-2"
+    },
     "010042000CA02000": {
         "id": "010042000CA02000",
         "nsuId": 70010000016042,
@@ -19591,6 +20232,25 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/rogue-bit"
     },
+    "010043200F874000": {
+        "id": "010043200F874000",
+        "nsuId": 70010000023465,
+        "name": "NekoMiko",
+        "eshop_name": "NekoMiko",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019125",
+        "description": "Nekofuku Shrine is a small shrine located in a corner of Akihabara. It is dedicated to 2 cats that are said to bring in good fortune and expel any misfortune.",
+        "AgeRating": 13,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Sexual Themes"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/nekomiko"
+    },
     "0100434003C58000": {
         "id": "0100434003C58000",
         "nsuId": 70010000002292,
@@ -19657,6 +20317,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/lichtspeer-double-speer-edition"
     },
+    "010043600B6A6000": {
+        "id": "010043600B6A6000",
+        "nsuId": 70010000011253,
+        "name": "South Park: The Stick of Truth",
+        "eshop_name": "South Park\u2122 : The Stick of Truth\u2122",
+        "metacritic_platform": "switch",
+        "metascore": "82",
+        "userscore": "85",
+        "release": "20180925",
+        "description": "From the perilous battlefields of the fourth-grade playground, a young hero will rise, destined to be South Park's savior. From the creators of South Park, Trey Parker and Matt Stone, comes an epic quest to become... cool.",
+        "AgeRating": 18,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/south-park-the-stick-of-truth"
+    },
     "0100437004170000": {
         "id": "0100437004170000",
         "nsuId": 70010000000774,
@@ -19678,6 +20359,24 @@
             "Online Interactions Not Rated by the ESRB"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/portal-knights"
+    },
+    "010043700C102000": {
+        "id": "010043700C102000",
+        "nsuId": 70030000003921,
+        "name": "Labyrinth of Refrain: Coven of Dusk",
+        "eshop_name": "Labyrinth of Refrain: Coven of Dusk Demo",
+        "metacritic_platform": "switch",
+        "metascore": "75",
+        "userscore": "76",
+        "release": "20180918",
+        "description": "Become the living book, Tractatus de Monstrum, and command a brigade of puppet soldiers as you navigate the twisting passageways of the labyrinth of Refrain.\n\nWhen at your base, prepare for your journey by upgrading your brigade! Create new puppet soldiers, assign them different squads and formations, synthesize better equipment, take requests from townsfolk, and get assistance from Dronya in the form of Witch Petitions.\n\nOnce you've entered the labyrinth, be sure to search every nook and cranny as you jump over barricades, solve puzzles, and smash your way through walls to delve further and further downward in search of treasure and rare artefacts. But be careful, the more riches you obtain, the more vicious the dungeon becomes. Can you survive long enough to bring your haul back?\n\nFight past terrifying monsters by giving orders to your puppet brigade. Change their formation, use special skills, or call for an all out attack! The battles you face will be challenging, so your success depends on your preparation and your strategy.",
+        "AgeRating": 16,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/labyrinth-of-refrain-coven-of-dusk"
     },
     "010043700C9B0000": {
         "id": "010043700C9B0000",
@@ -19802,6 +20501,41 @@
             "Mild Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/dexteritrip"
+    },
+    "010044200A112000": {
+        "id": "010044200A112000",
+        "nsuId": 70030000001843,
+        "name": "Vostok Inc.",
+        "eshop_name": "Vostok Inc. Demo",
+        "metacritic_platform": "switch",
+        "metascore": "65",
+        "userscore": null,
+        "release": "2017127",
+        "description": "Vostok Inc. is a casual game for a hardcore audience and a hardcore game for a casual audience. The premise is that you're a corrupt, narcissistic yuppie, out to make as much money as possible. Think the Wolf of Wall Street... in Space.\n\nIt's a twin stick shooter for the modern age, an age where audiences are limited by time and want to be able to play when they want, how they want, and on whatever devices they want. Want to play on console whilst sitting on the sofa? Sure. Fancy a quick game on handheld whilst on the bus? Go ahead. Want the game to reward you whilst it's playing itself, on your mobile whilst at work? Don't let us stop you!\n\nThe introduction of an idle clicker metagame into an already brilliant and satisfying second-to-second experience adds a whole extra dimension to the genre. Not to mention it makes the game more addictive than crack once you get going.\n\nOf course no Nosebleed Interactive game would be complete without the extra bells and whistles, so as well as an adaptive audio system (which you can remix to your heart's content) we've also got 13 minigames (including an FPS), Tamagotchi style virtual pets (or in our case, a Virtual Executives), and a massive suite of ship and weapon upgrades to unlock and mess about with.",
+        "AgeRating": 10,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/vostok-inc"
+    },
+    "010044200BC42000": {
+        "id": "010044200BC42000",
+        "nsuId": 70030000003981,
+        "name": "Detention",
+        "eshop_name": "Detention Demo",
+        "metacritic_platform": "switch",
+        "metascore": "79",
+        "userscore": "82",
+        "release": "2018031",
+        "description": "Detention is a unique atmospheric horror game heavily influenced by Taiwanese/East Asian culture, religious elements and mythology. Based on the 1960s Taiwan under martial law, in this 2D atmospheric horror side-scroller, the player control characters who venture into the school beset by hostile supernatural events to uncover stories behind the haunted place. Incorporated the game provided players with unique graphics and gaming experience. [Nintendo]",
+        "AgeRating": 18,
+        "category": null,
+        "ratingContent": [
+            "Extreme Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/detention"
     },
     "010044200D2C4000": {
         "id": "010044200D2C4000",
@@ -19972,6 +20706,52 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/the-mims-beginning"
     },
+    "010044700DEB0000": {
+        "id": "010044700DEB0000",
+        "nsuId": 70010000019188,
+        "name": "Assassin's Creed: The Rebel Collection",
+        "eshop_name": "Assassin\u2019s Creed\u00ae: The Rebel Collection",
+        "metacritic_platform": "switch",
+        "metascore": "83",
+        "userscore": "83",
+        "release": "2019126",
+        "description": "Become the most feared pirate in the Caribbean in Assassin\u2019s Creed IV Black Flag. Take part in an award-winning naval experience and explore a massive open world. Become the ultimate assassin hunter in Assassin\u2019s Creed\u00ae Rogue, and play as a Templar for the first time in franchise history. Experience enhanced features like Handheld Mode, HD Rumble, Touch Screen Interface, and Motion Control Aiming.",
+        "AgeRating": 17,
+        "category": [
+            "RPG",
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Sexual Themes",
+            "Strong Language",
+            "Use of Alcohol",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/assassins-creed-the-rebel-collection"
+    },
+    "010044700DEB1009": {
+        "id": "010044700DEB1009",
+        "nsuId": 70050000017205,
+        "name": "Assassin's Creed: The Rebel Collection",
+        "eshop_name": "Assassin's Creed\u00ae: The Rebel Collection \u2013 Extra Content",
+        "metacritic_platform": "switch",
+        "metascore": "83",
+        "userscore": "83",
+        "release": "2019126",
+        "description": "Become the most feared pirate in the Caribbean in Assassin\u2019s Creed IV Black Flag. Take part in an award-winning naval experience and explore a massive open world. Become the ultimate assassin hunter in Assassin\u2019s Creed\u00ae Rogue, and play as a Templar for the first time in franchise history. Experience enhanced features like Handheld Mode, HD Rumble, Touch Screen Interface, and Motion Control Aiming.",
+        "AgeRating": 17,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Sexual Themes",
+            "Strong Language",
+            "Use of Alcohol",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/assassins-creed-the-rebel-collection"
+    },
     "010044900CCCC000": {
         "id": "010044900CCCC000",
         "nsuId": 70010000020708,
@@ -20125,6 +20905,24 @@
             "Mild Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/ultimate-runner"
+    },
+    "010045200AB24000": {
+        "id": "010045200AB24000",
+        "nsuId": 70010000009735,
+        "name": "Yonder: The Cloud Catcher Chronicles",
+        "eshop_name": "\uc698\ub354: \ud074\ub77c\uc6b0\ub4dc \uce90\uccd0 \ud06c\ub85c\ub2c8\ud074 (Yonder: The Cloud Catcher Chronicles)",
+        "metacritic_platform": "switch",
+        "metascore": "74",
+        "userscore": null,
+        "release": "20180517",
+        "description": "Yonder shipwrecks players on the vast island of Gemea, a land enshrouded in an evil murk.  By exploring the land, joining forces with the locals and contributing to their community through optional talents like farming, crafting, cooking, fishing and brewing, adventurers can help the island flourish.",
+        "AgeRating": 0,
+        "category": [
+            "RPG",
+            "\uc5b4\ub4dc\ubca4\ucc98"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/yonder-the-cloud-catcher-chronicles"
     },
     "010045200D3A4000": {
         "id": "010045200D3A4000",
@@ -20672,6 +21470,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/skullgirls-2nd-encore"
     },
+    "010047100F978000": {
+        "id": "010047100F978000",
+        "nsuId": 70010000023730,
+        "name": "Arcade Archives: Frogger",
+        "eshop_name": "Arcade Archives FROGGER",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191212",
+        "description": "It's tough to be a frog! Life isn't all lazy days and lily pads--it abounds with dangers. Can you help Frogger survive some perils and spring him home to safety? First hop your frogs across a busy highway. Then cross a raging river to reach the safety of home. But your frogs will have to leap away from one danger after another before they're safe. Watch out for the tricky diving turtles...jump away from the frog-eating snakes...hop from the jaws of the hungry alligators!",
+        "AgeRating": 6,
+        "category": [
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-frogger"
+    },
     "010047300EBA6000": {
         "id": "010047300EBA6000",
         "nsuId": 70010000021307,
@@ -20741,6 +21559,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/rain-world"
     },
+    "010047600FBFE000": {
+        "id": "010047600FBFE000",
+        "nsuId": 70010000024539,
+        "name": "Pic-a-Pix Deluxe",
+        "eshop_name": "Link-a-Pix Deluxe",
+        "metacritic_platform": "switch",
+        "metascore": "78",
+        "userscore": "79",
+        "release": "2018014",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Puzzle",
+            "Strategy",
+            "Board Game"
+        ],
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/pic-a-pix-deluxe"
+    },
     "01004770079BA000": {
         "id": "01004770079BA000",
         "nsuId": 70010000003070,
@@ -20802,6 +21641,29 @@
             "Use of Alcohol"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/dark-witch-music-episode-rudymical"
+    },
+    "010047B010260000": {
+        "id": "010047B010260000",
+        "nsuId": 70010000026275,
+        "name": "Space Pioneer",
+        "eshop_name": "Space Pioneer",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019126",
+        "description": "Discover new planets, chart incredible worlds and reveal ancient secrets. Explore strange new worlds with your trusty robot sidekick. Make your way across fantastical planets from the icy tundra to the lush jungles brimming with flora and fauna. The endless universe has countless hostile galaxies to conquer. Combined with the dynamic objectives system, the gameplay is truly infinite in Space Pioneer. Recover stolen disks, defend probes, repair crashed craft and complete missions to earn loot and unlock awesome gear and skills. Every time you play missions have new objectives, enemies and additional challenges.",
+        "AgeRating": 10,
+        "category": [
+            "Action",
+            "Shooter",
+            "RPG",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/space-pioneer"
     },
     "010047D00AFD4000": {
         "id": "010047D00AFD4000",
@@ -21042,6 +21904,26 @@
             "Suggestive Themes"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/sonic-mania-encore-pack"
+    },
+    "010048600CC16000": {
+        "id": "010048600CC16000",
+        "nsuId": 70010000015585,
+        "name": "Real Heroes: Firefighter",
+        "eshop_name": "Real Heroes: Firefighter",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191127",
+        "description": "Enter the soot-stained boots of an everyday hero as a newly graduated Fire Academy cadet getting their start in a big city firehouse. Experience raging infernos and explosive environments in this unique first person action game. Use the firefighter's tools of the trade like the axe, hose and saw to rescue survivors and get the fires under control.",
+        "AgeRating": 10,
+        "category": [
+            "Simulation",
+            "Action"
+        ],
+        "ratingContent": [
+            "Violent References"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/real-heroes-firefighter"
     },
     "010048800B638000": {
         "id": "010048800B638000",
@@ -21347,6 +22229,24 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/aca-neogeo-puzzle-bobble"
     },
+    "010049A00F5AC000": {
+        "id": "010049A00F5AC000",
+        "nsuId": 70010000022814,
+        "name": "Family Tennis SP",
+        "eshop_name": "Family Tennis SP",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "Smash away in this exciting new tennis game.\r\n\r\nChoose from eight cute anime characters and challenge opponents in a tournament or practice match. It's your choice to play singles or doubles.\r\n\r\nPlay alone or together with up to four friends. Dominate your opponents with super shots and master all special courts. Need a break between games? Then check out the exciting minigames.",
+        "AgeRating": 6,
+        "category": [
+            "Sports",
+            "Party"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/family-tennis-sp"
+    },
     "010049C0075F0000": {
         "id": "010049C0075F0000",
         "nsuId": 70010000002822,
@@ -21427,6 +22327,24 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/aca-neogeo-samurai-shodown-v-special"
     },
+    "010049F00EC30000": {
+        "id": "010049F00EC30000",
+        "nsuId": 70010000021449,
+        "name": "Nyan Cat: Lost In Space",
+        "eshop_name": "Nyan Cat: Lost in Space",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "** The most popular and most appreciated Nyan Cat game on iPhone/iPad! \"Awesome!\" - prguitarman, author of the original Nyan Cat characterWARNING! The Nyan Cat game and music are seriously addictive! Play with Nyan Cat only at your own risk!iTunes reviews (US and UK):\"Best, game, EVAR!\" - Jamiejdjdjdjdj \"This is the beat of the nyan cat games\" - Crazyboy4826\"This game is pro!\" - Oseycyhycyg \"I can't stop playing this Nyantastic game\" - Rossw123\"cute game thats fun to play! love the art style & glad it's universal! dont like cats, but i DO love this game!\" - Starscream1017 Features for humans:-powerups (magnet, ...)-leaderboards & achievements (Game Center)-score multipliers-Tac Nayn game mode-Nyan Cat skins-different background themes-different forms of NYAN CAT (Supernyan, ...) and TAC NAYN-UNIVERSAL APP (supports iPad/iPhone/iPhone4/iPod)-twitter and facebook integration-iCloud backup-unlocked themes and skin packs are synchronised between your devices via iCloud-child modeFeatures for Nyans:nyan nyan nyan nyan POWERUPS nyan nyan nyan ACHIEVEMENTS nyan nyan SUPERNYAN nyan ONLINE HIGH SCORES nyan nyan RETINA DISPLAY nyan nyan nyan UNIVERSAL APP nyan BEAUTIFUL PIXEL ART nyan nyan nyanFacebook: http://www.facebook.com/IstomGamesOfficial Nyan Cat fan page: http://www.facebook.com/NyanCatWorld",
+        "AgeRating": 6,
+        "category": [
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/nyan-cat-lost-in-space"
+    },
     "01004A200BB48000": {
         "id": "01004A200BB48000",
         "nsuId": 70010000012644,
@@ -21467,6 +22385,28 @@
             "Digital Purchases"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/tower-climb"
+    },
+    "01004A4009106000": {
+        "id": "01004A4009106000",
+        "nsuId": 70010000004962,
+        "name": "Decay of Logos",
+        "eshop_name": "Decay of Logos",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "Embark on a journey of revenge and betrayal set in motion by the destruction of our young adventurer\u2019s village at the hands of Crimson Knights. Find solace in your trusty elk companion as you battle the unforgiving foes that roam this once peaceful realm. Venture into ancient ruins and dungeons in search of its rewards in a quest to find the truth behind the attack of Ada\u2019s home.",
+        "AgeRating": 13,
+        "category": [
+            "Adventure",
+            "RPG",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/decay-of-logos"
     },
     "01004A400C320000": {
         "id": "01004A400C320000",
@@ -22060,6 +23000,21 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/aca-neogeo-metal-slug-5"
     },
+    "01004C000BF96000": {
+        "id": "01004C000BF96000",
+        "nsuId": 70030000004822,
+        "name": "Mahjong Solitaire Refresh",
+        "eshop_name": "Mahjong Solitaire Refresh Demo",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20181213",
+        "description": "",
+        "AgeRating": 3,
+        "category": null,
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/mahjong-solitaire-refresh"
+    },
     "01004C100A04C000": {
         "id": "01004C100A04C000",
         "nsuId": 70010000007744,
@@ -22270,6 +23225,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/monkey-king-master-of-the-clouds"
     },
+    "01004C500BD40000": {
+        "id": "01004C500BD40000",
+        "nsuId": 70010000013073,
+        "name": "Dead End Job",
+        "eshop_name": "Dead End Job",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191213",
+        "description": "Dead End Job sends you into a madcap, whacky world to bust up ghosts. It\u2019s a procedurally generated, couch co-op, twin-stick shooter that straps a vacuum pack to your back, and puts a plasma blaster in your hand. For you, it\u2019s just another day in the office. You take on the role of Hector Plasm, a worker at Ghoul-B-Gone \u2013 \u2018the Number One experts in paranormal pest control\u2019 \u2013 as you\u2019re tasked with heading to haunted offices, restaurants, and other everyday buildings before freeing them of unwanted guests.",
+        "AgeRating": 13,
+        "category": [
+            "Action",
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/dead-end-job"
+    },
     "01004C70086EC000": {
         "id": "01004C70086EC000",
         "nsuId": 70010000003981,
@@ -22349,6 +23325,25 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/elli"
+    },
+    "01004CD00F690000": {
+        "id": "01004CD00F690000",
+        "nsuId": 70010000022975,
+        "name": "Knowledge Trainer: Trivia",
+        "eshop_name": "Knowledge Trainer: Trivia",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "The quiz app for smart people. It\u2019s designed to stimulate your brain with over 6,000 high-quality, challenging, and informative questions. For one or more players.",
+        "AgeRating": 6,
+        "category": [
+            "Education",
+            "Party",
+            "Study"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/knowledge-trainer-trivia"
     },
     "01004CF00A60E000": {
         "id": "01004CF00A60E000",
@@ -22985,6 +23980,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/revenge-of-the-bird-king"
     },
+    "01004EB00E43A000": {
+        "id": "01004EB00E43A000",
+        "nsuId": 70010000022095,
+        "name": "Five Nights at Freddy's 2 HD",
+        "eshop_name": "Five Nights at Freddy's 2",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191129",
+        "description": "In Five Nights at Freddy's 2, the old and aging animatronics are joined by a new cast of characters. They are kid-friendly, updated with the latest in facial recognition technology, tied into local criminal databases, and promise to put on a safe and entertaining show for kids and grown-ups alike!",
+        "AgeRating": 13,
+        "category": [
+            "Strategy",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/five-nights-at-freddys-2-hd"
+    },
     "01004EC00E634000": {
         "id": "01004EC00E634000",
         "nsuId": 70010000020931,
@@ -23362,6 +24377,26 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/fun!-fun!-animal-park"
+    },
+    "010050200FFD2000": {
+        "id": "010050200FFD2000",
+        "nsuId": 70010000025464,
+        "name": "Arcade Archives: TwinBee",
+        "eshop_name": "Arcade Archives TwinBee",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019125",
+        "description": "'TwinBee' is a shooting game that was released from KONAMI in 1985.\r\nPlayers will control fighters which are called 'TwinBee' and 'WinBee', that Dr. Cinnamon developed, and challenge the fight to the army.\r\nThere are two versions, 'Bubble system' and 'ROM', in this work. Please enjoy differences of each boards.",
+        "AgeRating": 6,
+        "category": [
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-twinbee"
     },
     "010050300AC28000": {
         "id": "010050300AC28000",
@@ -24586,6 +25621,26 @@
             "Mild Blood"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/fobia"
+    },
+    "010056100E43C000": {
+        "id": "010056100E43C000",
+        "nsuId": 70010000024638,
+        "name": "Five Nights at Freddy's 3 HD",
+        "eshop_name": "Five Nights at Freddy's 3",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191129",
+        "description": "Thirty years after Freddy Fazbear's Pizza closed it's doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of \"Fazbear's Fright: The Horror Attraction\" are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.",
+        "AgeRating": 13,
+        "category": [
+            "Strategy",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/five-nights-at-freddys-3-hd"
     },
     "0100562008698000": {
         "id": "0100562008698000",
@@ -26356,6 +27411,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/rabi-ribi"
     },
+    "01005C1010488000": {
+        "id": "01005C1010488000",
+        "nsuId": 70010000026457,
+        "name": "Voxel Galaxy",
+        "eshop_name": "Voxel Galaxy",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "",
+        "AgeRating": 3,
+        "category": [
+            "Party",
+            "Shooter",
+            "Fighting",
+            "Racing"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/voxel-galaxy"
+    },
     "01005C40037C6000": {
         "id": "01005C40037C6000",
         "nsuId": 70010000000859,
@@ -26712,6 +27787,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/aca-neogeo-ghost-pilots"
     },
+    "01005D800E022000": {
+        "id": "01005D800E022000",
+        "nsuId": 70010000019363,
+        "name": "Where the Water Tastes Like Wine",
+        "eshop_name": "Where the Water Tastes Like Wine",
+        "metacritic_platform": "switch",
+        "metascore": "68",
+        "userscore": null,
+        "release": "20191129",
+        "description": "Where the Water Tastes Like Wine is a Narrative-Adventure game about traveling, sharing stories, and surviving manifest destiny. Featuring gorgeous hand-drawn illustrations, Where the Water Tastes Like Wine combines 2D visuals with a 3D overworld US map. Players wander across a folkloric Depression era United States at their own pace, meeting strangers with their own stories to tell. Through these interactions, players will be able to collect unique stories which can then be re-told to unlock new interactions. In this way the in-game stories themselves act as a currency to progress through the game, and it\u2019s up to the player to pair the right story with the unique needs of each of the characters that you will encounter throughout your travels. Only through these right pairings will characters reveal their true selves, and bestow you with the most powerful stories, the true ones which reveal something about their own lives. In Where The Water Tastes Like Wine, stories organically take on a life of their own as they grow larger and transform as they're told- and re-told.",
+        "AgeRating": 17,
+        "category": [
+            "Adventure",
+            "RPG",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Strong Language"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/where-the-water-tastes-like-wine"
+    },
     "01005DA003E6E000": {
         "id": "01005DA003E6E000",
         "nsuId": 70010000000606,
@@ -27030,6 +28126,24 @@
         "nsuId": 70050000000620,
         "name": "Rocket League",
         "eshop_name": "Rocket League\u00ae - Triton",
+        "metacritic_platform": "switch",
+        "metascore": "86",
+        "userscore": "81",
+        "release": "20171114",
+        "description": "Rocket League is a high-powered hybrid of arcade soccer and driving with rewarding physics-based gameplay. Take to the pitch for a fully-featured offline season mode, multiple game types, casual and competitive online matches, and special \"Mutators\" that let you change the rules entirely. Express yourself with one of the deepest customization systems around and battle opponents on other platforms with cross-network play.",
+        "AgeRating": 6,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Users Interact"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/rocket-league"
+    },
+    "01005EE0036ED005": {
+        "id": "01005EE0036ED005",
+        "nsuId": 70050000000621,
+        "name": "Rocket League",
+        "eshop_name": "Rocket League\u00ae - Vulcan",
         "metacritic_platform": "switch",
         "metascore": "86",
         "userscore": "81",
@@ -28174,6 +29288,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/shikhondo-soul-eater"
     },
+    "010061500F462000": {
+        "id": "010061500F462000",
+        "nsuId": 70010000022688,
+        "name": "Deathtrap Dungeon Trilogy",
+        "eshop_name": "Deathtrap Dungeon Trilogy",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191129",
+        "description": "Play through three classic Fighting Fantasy gamebooks by author Ian Livingstone - Deathtrap Dungeon, Trial of Champions and Armies of Death. Start as a novice adventurer and rise up through the ranks in these epic tales of deadly traps, fearsome monsters and devious adversaries. Relive these exciting adventures in a whole new way \u2013 by powering up your Skill and Luck dice and collecting powerful cards to help you on your quests. Featuring a detailed branching narrative system and multiple difficulty levels, relive these classic adventures like never before.",
+        "AgeRating": 13,
+        "category": [
+            "Adventure",
+            "RPG",
+            "Board Game"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/deathtrap-dungeon-trilogy"
+    },
     "0100616009082000": {
         "id": "0100616009082000",
         "nsuId": 70010000012756,
@@ -28646,6 +29782,27 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/almightree-the-last-dreamer"
     },
+    "0100630010252000": {
+        "id": "0100630010252000",
+        "nsuId": 70010000026148,
+        "name": "SuperEpic: The Entertainment War",
+        "eshop_name": "SuperEpic: The Entertainment War",
+        "metacritic_platform": "switch",
+        "metascore": "78",
+        "userscore": null,
+        "release": "20191212",
+        "description": "In a not-too-distant future dystopia\u200b, a single videogame development company, \u200bRegnantcorp, controls an Orwellian society by enslaving the population with their addictive free game\u200bs. As a rebellious racoon, along with your llama steed, you'll explore a surreal castle-like office full of enemies, challenges, secrets and corporate pigs.",
+        "AgeRating": 13,
+        "category": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Language"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/superepic-the-entertainment-war"
+    },
     "0100631008244000": {
         "id": "0100631008244000",
         "nsuId": 70030000003401,
@@ -28849,6 +30006,21 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/kyub"
+    },
+    "010063D00C0F2000": {
+        "id": "010063D00C0F2000",
+        "nsuId": null,
+        "name": "Deemo",
+        "eshop_name": "Deemo",
+        "metacritic_platform": "switch",
+        "metascore": "88",
+        "userscore": "86",
+        "release": "20170928",
+        "description": "Experience Deemo: The Last Recital, a music rhythm game and story of urban fantasy.\r\n\r\nDeemo is a mystic being that lives in solitude in a castle all by itself. His life changes when a little girl who lost her memories, unknowingly falls from the sky, not knowing who she is and where she came from. Deemo comes to realize that whenever he plays the piano, a tree in front of him grows taller and taller. Confident that the tree can grow tall enough to help the little girl reach the sky from where she came from, the two come together to play the piano together. Can Deemo help the little girl regain her memories and help her get back home?",
+        "AgeRating": null,
+        "category": null,
+        "ratingContent": null,
+        "metacritic_url": "https://www.metacritic.com/game/switch/deemo"
     },
     "010063E00BBDC000": {
         "id": "010063E00BBDC000",
@@ -29143,6 +30315,24 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/pic-a-pix-pieces"
     },
+    "010065900CB3A000": {
+        "id": "010065900CB3A000",
+        "nsuId": 70030000004922,
+        "name": "Katamari Damacy REROLL",
+        "eshop_name": "Katamari Damacy REROLL Demo",
+        "metacritic_platform": "switch",
+        "metascore": "87",
+        "userscore": "84",
+        "release": "2018127",
+        "description": "The stop-at-nothing pushing prince is back and ready to reroll. When the King of All Cosmos accidentally destroys all the stars in the sky, he orders you, his pint-sized princely son, to put the twinkle back in the heavens above. Join the King and Prince of Cosmos on their wacky adventure to restore the stars at home or on the go \u2013 now in full HD.",
+        "AgeRating": 6,
+        "category": null,
+        "ratingContent": [
+            "Alcohol and Tobacco Reference",
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/katamari-damacy-reroll"
+    },
     "010065B009B3A000": {
         "id": "010065B009B3A000",
         "nsuId": 70010000007445,
@@ -29212,6 +30402,24 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/bot-vice"
     },
+    "010065C00F976000": {
+        "id": "010065C00F976000",
+        "nsuId": 70010000023727,
+        "name": "Arcade Archives: Hyper Sports",
+        "eshop_name": "Arcade Archives HYPER SPORTS",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Sports",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-hyper-sports"
+    },
     "010065E003FD8000": {
         "id": "010065E003FD8000",
         "nsuId": 70010000000656,
@@ -29237,6 +30445,21 @@
         "nsuId": 70050000005405,
         "name": "Gear.Club Unlimited: McLaren 570S GT4 Pack",
         "eshop_name": "Gear.Club Unlimited - Mclaren 570S GT4 Orange",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20180426",
+        "description": "",
+        "AgeRating": 3,
+        "category": null,
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/gearclub-unlimited-mclaren-570s-gt4-pack"
+    },
+    "010065E003FD9004": {
+        "id": "010065E003FD9004",
+        "nsuId": 70050000005409,
+        "name": "Gear.Club Unlimited: McLaren 570S GT4 Pack",
+        "eshop_name": "Gear.Club Unlimited - Mclaren 570S GT4 White",
         "metacritic_platform": "switch",
         "metascore": null,
         "userscore": null,
@@ -29599,6 +30822,23 @@
             "Mild Language"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/mario-+-rabbids-kingdom-battle---donkey-kong-adventure"
+    },
+    "010067300AFFA000": {
+        "id": "010067300AFFA000",
+        "nsuId": 70030000003461,
+        "name": "Earthlock",
+        "eshop_name": "EARTHLOCK Demo",
+        "metacritic_platform": "switch",
+        "metascore": "73",
+        "userscore": null,
+        "release": "2018038",
+        "description": "Festival of Magic is an adventure RPG with a Nordic take on an Eastern genre.\r\nGrow spuds, mushrooms and plants and use your harvest as powerful ammunition or spells; craft your weapons and team up your companions for battle. Solve challenging puzzles, collect rare items and explore various dungeons scattered across the world.",
+        "AgeRating": 10,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/earthlock"
     },
     "010067400EA5C000": {
         "id": "010067400EA5C000",
@@ -31443,6 +32683,44 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/fateextella-link"
     },
+    "01006E000C81D018": {
+        "id": "01006E000C81D018",
+        "nsuId": 70050000011444,
+        "name": "Planetarian",
+        "eshop_name": "Planetary Arabian",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20190131",
+        "description": "Sarcophogus City, a city where the rain never ceases, sets the stage for the emotional tale of a Junker and a Robot, Yumemi, shaped like a young woman. Planetarian is a sci-fi visual novel, brought to life with beautiful art and a stirring soundtrack. Planetarian was produced by Japanese studio Key, the creators of CLANNAD and Little Busters! Since hitting the Japanese market in 2004 for the PC, its popularity has led to novel and audiobook adaptations, as well as console ports of the original game. In 2016, it was adapted into a web anime and an animated feature film.",
+        "AgeRating": 13,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Language",
+            "Suggestive Themes"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/planetarian"
+    },
+    "01006E000C81D02F": {
+        "id": "01006E000C81D02F",
+        "nsuId": 70050000011570,
+        "name": "I Am The Hero",
+        "eshop_name": "The Hero",
+        "metacritic_platform": "switch",
+        "metascore": "64",
+        "userscore": null,
+        "release": "20181130",
+        "description": "I Am The Hero is a pixel art, beat 'em up, fighting game that tells the story of a \"Hero\" with a glorious but mysterious past. Is he the hero he thinks he is or is there a another side to this legendary figure?",
+        "AgeRating": 13,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Language",
+            "Suggestive Themes"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/i-am-the-hero"
+    },
     "01006E1004404000": {
         "id": "01006E1004404000",
         "nsuId": 70010000000946,
@@ -31563,6 +32841,21 @@
             "Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/earthlock"
+    },
+    "01006E50094E6000": {
+        "id": "01006E50094E6000",
+        "nsuId": 70030000001163,
+        "name": "Forma.8",
+        "eshop_name": "forma.8 \u4f53\u9a13\u7248",
+        "metacritic_platform": "switch",
+        "metascore": "76",
+        "userscore": "75",
+        "release": "20170824",
+        "description": "forma.8 is MixedBag\u2019s own take on the classic metroidvania formula, a project started over two years ago as a little gameplay concept centered on an experimental control system for touch devices that evolved in an adventure of epic scale.? It\u2019s the kind of game that, as a two-person indie developer, anyone tells you \u2018hey, don\u2019t start with something big like this!\u2019... err... In a distant future, the small exploration probe forma.8 is stranded alone on the surface of an alien planet. He got parted away from his companions by an accidental event and has a life or death mission to accomplish: he needs to find and recover a powerful energy source deep under the surface before it\u2019s too late. Ancient civilisations, great perils and dystopian visions awaits him, and not everything is as it seems...",
+        "AgeRating": 0,
+        "category": null,
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/forma8"
     },
     "01006E600D9C2000": {
         "id": "01006E600D9C2000",
@@ -33059,6 +34352,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/narcos-rise-of-the-cartels"
     },
+    "010072C010002000": {
+        "id": "010072C010002000",
+        "nsuId": 70010000025468,
+        "name": "Event Horizon: Space Defense",
+        "eshop_name": "Event Horizon: Space Defense",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191213",
+        "description": "Set in the captivating Event Horizon universe, this hardcore game puts you in control of a massive space fleet at war with over twelve alien factions. Make the best decisions in two crucial phases: strategic building and adrenaline-fueled battles.  You will have to trace your own path to victory from a large variety of possible items, features and actions. You should also travel to hunt giant space worms, investigate helpful beacons and scavenge wreckages for new assets. There is no end to the game, the stronger you become, the stronger your enemies will be. The war lasts forever - defend your station at all costs.",
+        "AgeRating": 10,
+        "category": [
+            "Adventure",
+            "Action",
+            "RPG",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/event-horizon-space-defense"
+    },
     "010072E00B36A000": {
         "id": "010072E00B36A000",
         "nsuId": 70010000011489,
@@ -34131,6 +35446,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/race-with-ryan"
     },
+    "010075D00E8BA000": {
+        "id": "010075D00E8BA000",
+        "nsuId": 70010000020818,
+        "name": "Alien: Isolation",
+        "eshop_name": "Alien: Isolation",
+        "metacritic_platform": "switch",
+        "metascore": "82",
+        "userscore": "82",
+        "release": "2019125",
+        "description": "HOW WILL YOU SURVIVE? \r\n\r\nDiscover the true meaning of fear in Alien: Isolation, a survival horror set in an atmosphere of constant dread and mortal danger. Fifteen years after the events of Alien, Ellen Ripleys daughter, Amanda enters a desperate battle for survival, on a mission to unravel the truth behind her mother's disappearance. \r\n\r\nAs Amanda, you will navigate through an increasingly volatile world as you find yourself confronted on all sides by a panicked, desperate population and an unpredictable, ruthless Alien. \r\n\r\nUnderpowered and underprepared, you must scavenge resources, improvise solutions and use your wits, not just to succeed in your mission, but to simply stay alive. \r\n\r\nOvercome an ever-present deadly threat  Experience persistent fear as a truly dynamic and reactive Alien uses its senses to hunt you down and respond to your every move. \r\n\r\nImprovise to survive  Hack systems, scavenge for vital resources and craft items to deal with each situation. Will you evade your enemies, distract them or face them head on? \r\n\r\nExplore a world of mystery and betrayal  Immerse yourself in the detailed setting of Sevastopol, a decommissioned trading station on the fringes of space. Encounter a rich cast of inhabitants in a world scarred by fear and mistrust. \r\n\r\nWhen she left Earth, Ellen Ripley promised her daughter Amanda she would return home for her 11th birthday. Amanda never saw her again. \r\n\r\nFifteen years later, Amanda, now a Weyland-Yutani employee, hears that the flight recorder of her mothers ship, the Nostromo, has been recovered at the remote trading station Sevastopol. The temptation for her to finally understand what happened is too much to resist. When the crew arrive at Sevastopol, they find something is desperately wrong. It all seems to be connected to an unknown menace, stalking and killing deep in the shadows. \r\n\r\nIn order to uncover the truth about her mother, Amanda is forced to confront the same terrifying thing that separated them.",
+        "AgeRating": 17,
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Strong Language",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/alien-isolation"
+    },
     "010075E0047F8000": {
         "id": "010075E0047F8000",
         "nsuId": 70010000001048,
@@ -34820,6 +36157,26 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/pirates-pinball"
     },
+    "010077E00F30E000": {
+        "id": "010077E00F30E000",
+        "nsuId": 70010000022579,
+        "name": "Big Pharma",
+        "eshop_name": "Big Pharma",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019125",
+        "description": "What if you had it in your power to rid the world of disease, to improve the lives of millions, to ease suffering and cure the sick and earn a tidy profit? As the head of your own Pharmaceutical Conglomerate you have this power resting in your hands. Will you use it for good? Being totally altruistic may not be the best business plan. The uncomfortable truth (is there an ointment for that?) is that some remedies are more profitable than others and illness is good for business. Welcome to the world of Big Pharma.",
+        "AgeRating": 17,
+        "category": [
+            "Simulation",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Use of Drugs"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/big-pharma"
+    },
     "010078000CB8E000": {
         "id": "010078000CB8E000",
         "nsuId": null,
@@ -34834,6 +36191,24 @@
         "category": null,
         "ratingContent": null,
         "metacritic_url": "https://www.metacritic.com/game/switch/neo-atlas-1469"
+    },
+    "010078000F9EC000": {
+        "id": "010078000F9EC000",
+        "nsuId": 70010000023967,
+        "name": "Knights of Pen and Paper +1 Deluxier Edition",
+        "eshop_name": "\u30ca\u30a4\u30c4 \u30aa\u30d6 \u30da\u30f3 \u30a2\u30f3\u30c9 \u30da\u30fc\u30d1\u30fc\uff08Knights of Pen and Paper +1 Deluxier Edition\uff09",
+        "metacritic_platform": "switch",
+        "metascore": "80",
+        "userscore": "83",
+        "release": "20180529",
+        "description": "",
+        "AgeRating": 0,
+        "category": [
+            "\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+            "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/knights-of-pen-and-paper-+1-deluxier-edition"
     },
     "0100782005A44000": {
         "id": "0100782005A44000",
@@ -35066,6 +36441,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/dragon-ball-xenoverse-2"
     },
+    "010078D000F89004": {
+        "id": "010078D000F89004",
+        "nsuId": 70050000000963,
+        "name": "Dragon Ball: Xenoverse 2",
+        "eshop_name": "DRAGON BALL XENOVERSE 2 - Super Pack 3",
+        "metacritic_platform": "switch",
+        "metascore": "75",
+        "userscore": "79",
+        "release": "20170922",
+        "description": "DRAGON BALL XENOVERSE 2 builds upon the highly popular DRAGON BALL XENOVERSE with enhanced graphics that will further immerse players into the largest and most detailed Dragon Ball world ever developed.\r\n\r\nDRAGON BALL XENOVERSE 2 will deliver a new hub city and the most character customization choices to date among a multitude of new features and special upgrades.\r\n\r\n*    Relive the Dragon Ball story by time traveling and protecting historic moments in the Dragon Ball universe\r\n*    Brand new hub city more than 7X the size of the original game with 300 players online at the same time\r\n*    Next-gen visuals bring the Dragon Ball anime experience to life\r\n*    New characters and boss fights\r\n*    More in depth character creation system and battle adjustments\r\n*    Free updates and post launch support for more than a year",
+        "AgeRating": 13,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Online Interactions Not Rated by the ESRB"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/dragon-ball-xenoverse-2"
+    },
     "010078D000F89008": {
         "id": "010078D000F89008",
         "nsuId": 70050000002286,
@@ -35128,6 +36524,69 @@
             "Online Interactions Not Rated by the ESRB"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/dragon-ball-xenoverse-2-extra-pack-3"
+    },
+    "010078D000F8900D": {
+        "id": "010078D000F8900D",
+        "nsuId": 70050000009533,
+        "name": "Dragon Ball Xenoverse 2: Extra Pack 3",
+        "eshop_name": "DRAGON BALL XENOVERSE 2 - Extra DLC Pack 4",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20180828",
+        "description": "",
+        "AgeRating": 13,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Online Interactions Not Rated by the ESRB"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/dragon-ball-xenoverse-2-extra-pack-3"
+    },
+    "010078D000F8900E": {
+        "id": "010078D000F8900E",
+        "nsuId": 70050000011051,
+        "name": "Dragon Ball: Xenoverse 2 - Ultra Pack 2",
+        "eshop_name": "DRAGON BALL XENOVERSE 2 - Ultra Pack 1",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191212",
+        "description": "",
+        "AgeRating": 13,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Users Interact"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/dragon-ball-xenoverse-2---ultra-pack-2"
+    },
+    "010078D000F8900F": {
+        "id": "010078D000F8900F",
+        "nsuId": 70050000013065,
+        "name": "Dragon Ball: Xenoverse 2 - Ultra Pack 2",
+        "eshop_name": "DRAGON BALL XENOVERSE 2 - Ultra Pack 2",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191212",
+        "description": "",
+        "AgeRating": 13,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Users Interact"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/dragon-ball-xenoverse-2---ultra-pack-2"
     },
     "010078D00E8F4000": {
         "id": "010078D00E8F4000",
@@ -35841,6 +37300,29 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/gofishing-3d"
     },
+    "01007BC00E55A000": {
+        "id": "01007BC00E55A000",
+        "nsuId": 70010000020128,
+        "name": "Immortal Planet",
+        "eshop_name": "Immortal Planet",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019126",
+        "description": "On the icy surface of a forgotten planet stand ruined tombs where immortals sleep. While sleepless warriors roam the halls with their minds eroded by eternity, a lone Awakewalker emerges from cryosleep. With no memory of their past, it\u2019s up to them to forge their future, discover the planet\u2019s mysteries, and find a way out of this icy hell.",
+        "AgeRating": 13,
+        "category": [
+            "Action",
+            "RPG",
+            "Adventure",
+            "Fighting"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/immortal-planet"
+    },
     "01007BD00AE70000": {
         "id": "01007BD00AE70000",
         "nsuId": 70010000011892,
@@ -36315,6 +37797,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/shadow-bug"
     },
+    "01007DB00A226000": {
+        "id": "01007DB00A226000",
+        "nsuId": 70010000024621,
+        "name": "Travel Mosaics: A Paris Tour",
+        "eshop_name": "Travel Mosaics: A Paris Tour",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191216",
+        "description": "In Travel Mosaics: A Paris Tour, explore the beauty of France while completing colorful and challenging mosaics puzzles. It's edutainment for all ages! Follow the Walkers, a fun animal family, as they tour the most famous attractions Paris has to offer. Answer tricky quiz questions, collect gold coins and find incredible souvenirs during your trip. Travel Mosaics: A Paris Tour is perfect if you'd like to exercise your mind and have fun at the same time.",
+        "AgeRating": 6,
+        "category": [
+            "Puzzle",
+            "Education",
+            "Board Game",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/travel-mosaics-a-paris-tour"
+    },
     "01007DD00ABB4000": {
         "id": "01007DD00ABB4000",
         "nsuId": 70010000016383,
@@ -36786,6 +38288,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/ys-viii-lacrimosa-of-dana"
     },
+    "01007F200B0C1014": {
+        "id": "01007F200B0C1014",
+        "nsuId": 70050000005542,
+        "name": "Ys VIII: Lacrimosa of DANA",
+        "eshop_name": "Ys VIII: Lacrimosa of DANA - Free Set 2",
+        "metacritic_platform": "switch",
+        "metascore": "82",
+        "userscore": "88",
+        "release": "20180626",
+        "description": "Ys returns with a brand new adventure for the first time in 8 years! Adol awakens shipwrecked and stranded on a cursed island. There, he and the other shipwrecked passengers he rescues form a village to challenge fearsome beasts and mysterious ruins on the isolated island. Amidst this, Adol begins to dream of a mysterious blue-haired maiden living in an unknown world. Join Adol as he unravels the riddle of the cursed isle and the blue-haired maiden Dana in Ys VIII: Lacrimosa of Dana!\r\n\r\nFEATURES:\r\n\r\nAn Epic Tale - Follow Adol on his latest adventure and uncover the mysteries of the cursed island. \r\n\r\nParty On! - Change your playable character on-the-fly as you battle ferocious foes in lighting-fast combat.\r\n\r\nAnother Side - Unravel the mystery of the blue-haired maiden Dana through her unique gameplay sections.\r\n\r\nIt Takes a Village! - Rescue your fellow shipwrecked passengers and bring them to your village where they will provide valuable services.",
+        "AgeRating": 13,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Fantasy Violence",
+            "Language",
+            "Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/ys-viii-lacrimosa-of-dana"
+    },
     "01007F4004FA4000": {
         "id": "01007F4004FA4000",
         "nsuId": 70010000001254,
@@ -37162,6 +38685,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/bouncy-bob-2"
     },
+    "010081500EA1E000": {
+        "id": "010081500EA1E000",
+        "nsuId": 70010000021038,
+        "name": "Asterix & Obelix XXL 3: The Crystal Menhir",
+        "eshop_name": "Asterix & Obelix XXL3: The Crystal Menhir",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "The year is 50 B.C. Gaul is entirely occupied by the Romans. Well, not entirely... One small village of indomitable Gauls still holds out against the invaders. And life is not easy for the Roman legionaries who garrison the fortified camps of Totorum, Aquarium, Laudanum and Compendium. Peace reigns in the small Armorican village, where the villagers go about their daily business. Our two heroes, Asterix and Obelix, hunt wild boar, the blacksmith and the fishmonger quarrel, and the village chief strolls around the village square atop his shield.\r\n\r\nOne day, the village druid, Getafix, receives a strange letter. It is from Hella Finidrir, the high priestess of Thule! She warns the druid of a grave threat to his people and asks him to take a mysterious Menhir out of its hiding place...\r\n\r\nSet off on an exciting adventure and immerse yourself in the world of Asterix! Alone or in co-op, explore the lands of the Roman empire and unravel the mystery of the Crystal Menhir and its incredible powers!",
+        "AgeRating": 7,
+        "category": [
+            "Action",
+            "Adventure",
+            "Fighting"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/asterix-obelix-xxl-3-the-crystal-menhir"
+    },
     "0100818008004000": {
         "id": "0100818008004000",
         "nsuId": 70010000003303,
@@ -37183,6 +38727,49 @@
             "Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/serial-cleaner"
+    },
+    "010081900F9E2000": {
+        "id": "010081900F9E2000",
+        "nsuId": 70010000023890,
+        "name": "Wizards of Brandel",
+        "eshop_name": "Wizards of Brandel",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019125",
+        "description": "",
+        "AgeRating": 13,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Strategy",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Suggestive Themes",
+            "In-Game Purchases"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/wizards-of-brandel"
+    },
+    "010081900F9E3002": {
+        "id": "010081900F9E3002",
+        "nsuId": 70050000017544,
+        "name": "Wizards of Brandel",
+        "eshop_name": "SP x3 - Wizards of Brandel",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019125",
+        "description": "",
+        "AgeRating": 13,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Suggestive Themes",
+            "In-Game Purchases"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/wizards-of-brandel"
     },
     "010081C008164000": {
         "id": "010081C008164000",
@@ -37359,6 +38946,25 @@
             "Alcohol Reference"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/new-star-manager"
+    },
+    "010082900D6DC000": {
+        "id": "010082900D6DC000",
+        "nsuId": 70010000017509,
+        "name": "Professional Farmer: American Dream",
+        "eshop_name": "Professional Farmer: American Dream",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Simulation"
+        ],
+        "ratingContent": [
+            "No Descriptors"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/professional-farmer-american-dream"
     },
     "010082A00D80A000": {
         "id": "010082A00D80A000",
@@ -37631,6 +39237,26 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-alpine-ski"
     },
+    "010083800E43E000": {
+        "id": "010083800E43E000",
+        "nsuId": 70010000025149,
+        "name": "Five Nights at Freddy's 4 HD",
+        "eshop_name": "Five Nights at Freddy's 4",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191129",
+        "description": "In this last chapter of the Five Nights at Freddy's original story, you must once again defend yourself against Freddy Fazbear, Chica, Bonnie, Foxy, and even worse things that lurk in the shadows. Playing as a child whose role is yet unknown, you must safeguard yourself until 6am by watching the doors, as well as warding off unwanted creatures that may venture into your closet or onto the bed behind you.",
+        "AgeRating": 13,
+        "category": [
+            "Strategy",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/five-nights-at-freddys-4-hd"
+    },
     "010083A00BF6C000": {
         "id": "010083A00BF6C000",
         "nsuId": 70010000013487,
@@ -37740,6 +39366,24 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/vectronom"
+    },
+    "010084000FA78000": {
+        "id": "010084000FA78000",
+        "nsuId": 70010000024095,
+        "name": "Smash Rush",
+        "eshop_name": "Smash Rush",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019125",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/smash-rush"
     },
     "0100841008BDE000": {
         "id": "0100841008BDE000",
@@ -38092,6 +39736,27 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/neon-junctions"
     },
+    "010085A00420A000": {
+        "id": "010085A00420A000",
+        "nsuId": 70010000000857,
+        "name": "Let's Sing 2020",
+        "eshop_name": "Let's Sing 10",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191115",
+        "description": "All begins with the first tone! Sing as solo superstar or perform with your crew and friends to rock every party! With the latest version of the singing game Let's Sing you can follow the footsteps of cutting-edge artists and perform songs like:\r\n\r\nAva Max - Sweet but Psycho, Lewis Capaldi - Someone You Loved, Calvin Harris & Dua Lipa - One Kiss, Spice Girls - Wannabe, Robbie Williams - Angels and more!",
+        "AgeRating": 12,
+        "category": [
+            "M\u00fasica",
+            "Fiesta"
+        ],
+        "ratingContent": [
+            "Sex",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/lets-sing-2020"
+    },
     "010085A00821A000": {
         "id": "010085A00821A000",
         "nsuId": 70010000003506,
@@ -38425,6 +40090,21 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/retimed"
     },
+    "010086F0064CE000": {
+        "id": "010086F0064CE000",
+        "nsuId": null,
+        "name": "Poi: Explorer Edition",
+        "eshop_name": "Poi: Explorer Edition",
+        "metacritic_platform": "switch",
+        "metascore": "65",
+        "userscore": null,
+        "release": "20171023",
+        "description": "",
+        "AgeRating": null,
+        "category": null,
+        "ratingContent": null,
+        "metacritic_url": "https://www.metacritic.com/game/switch/poi-explorer-edition"
+    },
     "010087000428E000": {
         "id": "010087000428E000",
         "nsuId": 70010000000799,
@@ -38443,6 +40123,28 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/plantera-deluxe"
+    },
+    "010087200289A000": {
+        "id": "010087200289A000",
+        "nsuId": 70010000010702,
+        "name": "Riverbond",
+        "eshop_name": "Riverbond",
+        "metacritic_platform": "switch",
+        "metascore": "59",
+        "userscore": null,
+        "release": "20191210",
+        "description": "The Knight has imprisoned the leaders of the Eight Worlds, causing chaos, droughts and disarray! Adventure together to defeat evil and help the charming citizens of Riverbond in this action-packed journey through beautiful, hand-crafted worlds.",
+        "AgeRating": 10,
+        "category": [
+            "Action",
+            "Adventure",
+            "Arcade",
+            "Party"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/riverbond"
     },
     "010087300445A000": {
         "id": "010087300445A000",
@@ -38515,6 +40217,24 @@
             "Users Interact"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/bloody-zombies"
+    },
+    "010087600AD4A000": {
+        "id": "010087600AD4A000",
+        "nsuId": 70010000009910,
+        "name": "Draw a Stickman: EPIC 2",
+        "eshop_name": "Draw a Stickman: EPIC 2",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20180111",
+        "description": "Imagination is the key, as you enter a magical storybook land full of mystery and wonder, unusual creatures and enigmatic puzzles. Create your own original stickman and then watch it come to life in Draw A Stickman: Epic 2 and the Drawn Below expansion.",
+        "AgeRating": 0,
+        "category": [
+            "\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+            "\u30d1\u30ba\u30eb"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/draw-a-stickman-epic-2"
     },
     "010087700D07C000": {
         "id": "010087700D07C000",
@@ -39181,6 +40901,31 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/the-big-journey"
     },
+    "010089600FB72000": {
+        "id": "010089600FB72000",
+        "nsuId": 70010000024562,
+        "name": "Trover Saves the Universe",
+        "eshop_name": "Trover Saves The Universe",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "Your dogs have been dognapped by a beaked lunatic who stuffed them into his eye holes and is using their life essence to destroy the universe. You're partnered with Trover, a little purple eye-hole monster who isn\u2019t a huge fan of working or being put in the position of having to save the universe.",
+        "AgeRating": 17,
+        "category": [
+            "Action",
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Drug Reference",
+            "Mature Humor",
+            "Strong Language",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/trover-saves-the-universe"
+    },
     "010089700150E000": {
         "id": "010089700150E000",
         "nsuId": 70010000001451,
@@ -39612,6 +41357,28 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/junior-league-sports"
     },
+    "01008B20022AA000": {
+        "id": "01008B20022AA000",
+        "nsuId": 70010000027060,
+        "name": "Shovel Knight: King of Cards",
+        "eshop_name": "Shovel Knight: King of Cards",
+        "metacritic_platform": "switch",
+        "metascore": "80",
+        "userscore": "81",
+        "release": "20191210",
+        "description": "Play as King Knight, the gilded goon himself, as he travels through 4 new worlds and more than 30 all new courses, on a journey to best the Three Kings who rule over the land. With a high flying spin and a boisterous bash, he can crash through all who would dare stand in his way.",
+        "AgeRating": 6,
+        "category": [
+            "Adventure",
+            "Action",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence",
+            "Use of Alcohol"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/shovel-knight-king-of-cards"
+    },
     "01008B200D748000": {
         "id": "01008B200D748000",
         "nsuId": 70010000017653,
@@ -39740,6 +41507,30 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/toki"
+    },
+    "01008BB00F824000": {
+        "id": "01008BB00F824000",
+        "nsuId": 70010000023383,
+        "name": "Defenders of Ekron: Definitive Edition",
+        "eshop_name": "Defenders of Ekron: Definitive Edition",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019125",
+        "description": "Defenders of Ekron mixes shoot'em up action and the exploration of an adventure game. Destroy enemies in 360\u00b0 shooting range, analyze unique scenarios, upgrade your Anakim's skills and defeat The Renegades to stop the bursting civil war threatening Ekron. The revolution starts with you.",
+        "AgeRating": 13,
+        "category": [
+            "Shooter",
+            "Adventure",
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Mild Language",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/defenders-of-ekron-definitive-edition"
     },
     "01008BD00F072000": {
         "id": "01008BD00F072000",
@@ -40013,6 +41804,24 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/she-and-the-light-bearer"
+    },
+    "01008CE00FDCC000": {
+        "id": "01008CE00FDCC000",
+        "nsuId": 70010000025028,
+        "name": "Bowling",
+        "eshop_name": "Bowling",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Sports",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/bowling"
     },
     "01008D000877C000": {
         "id": "01008D000877C000",
@@ -40504,6 +42313,28 @@
             "Users Interact"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/istanbul-digital-edition"
+    },
+    "01008E700F952000": {
+        "id": "01008E700F952000",
+        "nsuId": 70010000023668,
+        "name": "Skelittle: A Giant Party!!",
+        "eshop_name": "Skelittle: A Giant Party!",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "Skelittle is a silly, colorful party game designed for fun with friends & family.  Challenge each other in a series of 15 minigames and unlock objects to craft your very own game sessions in sandbox mode.",
+        "AgeRating": 6,
+        "category": [
+            "Multiplayer",
+            "Party",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/skelittle-a-giant-party!!"
     },
     "01008E800D1FE000": {
         "id": "01008E800D1FE000",
@@ -41336,6 +43167,24 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/blazblue-cross-tag-battle"
     },
+    "010090F00A76B00D": {
+        "id": "010090F00A76B00D",
+        "nsuId": 70050000018001,
+        "name": "BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack",
+        "eshop_name": "BLAZBLUE CROSS TAG BATTLE Ver2.0",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191120",
+        "description": "",
+        "AgeRating": 12,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/blazblue-cross-tag-battle---ver-20-expansion-pack"
+    },
     "010091000CC0E000": {
         "id": "010091000CC0E000",
         "nsuId": 70010000015565,
@@ -41693,6 +43542,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/friday-the-13th-the-game---ultimate-slasher-switch-edition"
     },
+    "010092A00D43C000": {
+        "id": "010092A00D43C000",
+        "nsuId": 70010000016897,
+        "name": "The Talos Principle: Deluxe Edition",
+        "eshop_name": "The Talos Principle: Deluxe Edition",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191210",
+        "description": "",
+        "AgeRating": 10,
+        "category": [
+            "Puzzle",
+            "Strategy",
+            "Adventure",
+            "First-Person Shooter"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/the-talos-principle-deluxe-edition"
+    },
     "010092B0091D0000": {
         "id": "010092B0091D0000",
         "nsuId": 70010000005062,
@@ -41985,6 +43856,26 @@
             "Mild Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/kid-tripp"
+    },
+    "010093F00E818000": {
+        "id": "010093F00E818000",
+        "nsuId": 70010000020682,
+        "name": "Tools Up!",
+        "eshop_name": "Tools Up!",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019123",
+        "description": "Renovate like there\u2019s no tomorrow! Gather your friends in this intense couch co-op about home renovation. Home renovation has never been so much fun.\r\n\r\nIt is hard, messy work. But you don\u2019t have to work alone in this crazy couch co-op! Join up to three friends, sit down (or not) and start a wild renovation party.\r\n\r\nMeet a crew of renovators eager to get their job done. But most accidents happen at home: can you work effectively when there\u2019s spilled paint on the floor and a pool of lava around the apartment?",
+        "AgeRating": 6,
+        "category": [
+            "Party",
+            "Arcade",
+            "Simulation",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/tools-up!"
     },
     "010094300C888000": {
         "id": "010094300C888000",
@@ -42380,6 +44271,24 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/quest-hunter"
     },
+    "0100956007854000": {
+        "id": "0100956007854000",
+        "nsuId": 70010000003085,
+        "name": "Woodle Tree Adventures Deluxe",
+        "eshop_name": "Woodle Tree Adventures",
+        "metacritic_platform": "switch",
+        "metascore": "28",
+        "userscore": null,
+        "release": "20171221",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/woodle-tree-adventures-deluxe"
+    },
     "010095600AA36000": {
         "id": "010095600AA36000",
         "nsuId": 70010000009343,
@@ -42506,6 +44415,25 @@
             "Use of Tobacco"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/beach-buggy-racing"
+    },
+    "010095C00F354000": {
+        "id": "010095C00F354000",
+        "nsuId": 70010000022611,
+        "name": "Monster Jam Steel Titans",
+        "eshop_name": "Monster Jam Steel Titans",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191126",
+        "description": "Monster Jam Steel Titans features the top trucks, stadiums and arenas in the sport. Train at Monster Jam University and explore 12 stadiums and a massive open world.",
+        "AgeRating": 6,
+        "category": [
+            "Racing",
+            "Sports",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/monster-jam-steel-titans"
     },
     "010096000EEBA000": {
         "id": "010096000EEBA000",
@@ -42690,6 +44618,21 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/octocopter-double-or-squids"
     },
+    "010096E008BAA000": {
+        "id": "010096E008BAA000",
+        "nsuId": 70030000001921,
+        "name": "Happy Birthdays",
+        "eshop_name": "Happy Birthdays \u4f53\u9a13\u7248",
+        "metacritic_platform": "switch",
+        "metascore": "71",
+        "userscore": null,
+        "release": "2018065",
+        "description": "From legendary creator Mr. Yasuhiro Wada (TOYBOX Inc.) comes Happy Birthdays: a sandbox game in which players create cube-shaped worlds that give rise to diverse and unique lifeforms. With careful experimentation, players can shape the geography and alter the temperature of the world to create the conditions for life and witness the birth of an entire ecosystem.",
+        "AgeRating": 0,
+        "category": null,
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/happy-birthdays"
+    },
     "010096F00E5B0000": {
         "id": "010096F00E5B0000",
         "nsuId": 70010000020159,
@@ -42815,6 +44758,26 @@
             "Comic Mischief"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/rayman-legends-definitive-edition"
+    },
+    "010097500E552000": {
+        "id": "010097500E552000",
+        "nsuId": 70010000020122,
+        "name": "March to a Million",
+        "eshop_name": "March to a Million",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019125",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Simulation",
+            "RPG",
+            "Strategy",
+            "Other"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/march-to-a-million"
     },
     "0100976008FBE000": {
         "id": "0100976008FBE000",
@@ -43051,6 +45014,25 @@
             "Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/goonya-fighter"
+    },
+    "010098200E6F8000": {
+        "id": "010098200E6F8000",
+        "nsuId": 70010000020349,
+        "name": "Star Ocean: First Departure R",
+        "eshop_name": "STAR OCEAN -First Departure R-",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": "78",
+        "release": "2019125",
+        "description": "Space Date: 346. From a power yet undiscovered, a new generation will be born. Our tale begins on the primitive planet of Roak where Roddick lives in the peaceful and uneventful town of Kratus. As a member of the village\u2019s local \u201cDefence Force\u201d tasked with the protection of Kratus, Roddick learns of a mysterious disease that has broken out in the neighboring town. Those infected turn to stone, but continue to live on in a petrified state. Roddick, along with his two friends Millie and Dorne, make their way to the neighboring town. Informed of a cure for the sickness, they head to Mt. Metorx where a healing herb is rumored to grow. When they reach the summit, the party encounter Ronyx and Ilia, who appear before them in a pillar of light. Thus, the story of STAR OCEAN begins...",
+        "AgeRating": 12,
+        "category": [
+            "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0"
+        ],
+        "ratingContent": [
+            "\u30bb\u30af\u30b7\u30e3\u30eb"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/star-ocean-first-departure-r"
     },
     "01009840046BC000": {
         "id": "01009840046BC000",
@@ -43819,6 +45801,24 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/pumped-bmx-pro"
+    },
+    "01009AF0101CC000": {
+        "id": "01009AF0101CC000",
+        "nsuId": 70010000025909,
+        "name": "JigSaw Solace",
+        "eshop_name": "JigSaw Solace",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019123",
+        "description": "A calming and relaxing puzzle experience.\r\n\r\n*6 different themes to choose from\r\n\r\n*4 different difficulty size to adjust any time during playing\r\n\r\n*30 high quality puzzle images.\r\n\r\n*Soft, relaxing and cheerful music\r\n\r\n*Ability to adjust background themes.",
+        "AgeRating": 6,
+        "category": [
+            "Puzzle",
+            "Board Game"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/jigsaw-solace"
     },
     "01009B300872A000": {
         "id": "01009B300872A000",
@@ -45397,6 +47397,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/flipping-death"
     },
+    "01009FB00EE4A000": {
+        "id": "01009FB00EE4A000",
+        "nsuId": 70010000021783,
+        "name": "Happy Animals Bowling",
+        "eshop_name": "Happy Animals Bowling",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191129",
+        "description": "When nobody's looking, animals love to come together and organize bowling tournaments. Yep, they just love bowling. This time, the turnout was amazing! The little lamb is here, the crocodile is here, and even the champion Piglet Joffrey is here.",
+        "AgeRating": 6,
+        "category": [
+            "Arcade",
+            "Party",
+            "Sports",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/happy-animals-bowling"
+    },
     "01009FF00A160000": {
         "id": "01009FF00A160000",
         "nsuId": 70010000007889,
@@ -46116,6 +48136,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/dragon-ball-fighterz"
     },
+    "0100A250097F1014": {
+        "id": "0100A250097F1014",
+        "nsuId": 70050000010221,
+        "name": "Dragon Ball FighterZ",
+        "eshop_name": "DRAGON BALL FIGHTERZ - Jiren",
+        "metacritic_platform": "switch",
+        "metascore": "88",
+        "userscore": null,
+        "release": "20180928",
+        "description": "After the success of the Xenoverse series, its time to introduce a new classic 2D DRAGON BALL fighting game for this generations consoles. DRAGON BALL FighterZ is born from what makes the DRAGON BALL series so loved and famous: endless spectacular fights with its allpowerful fighters. Partnering with Arc System Works, DRAGON BALL FighterZ maximizes high end Anime graphics and brings easy to learn but difficult to master fighting gameplay to audiences worldwide. \r\n\r\nKey Features:\r\n\r\n* 3vs3 TAG/SUPPORT\r\nAllows players to train and master more than one fighter/style which brings deeper gameplay\r\n\r\n* HIGH-END ANIME GRAPHICS\r\nUsing the power of the Unreal engine and the talented team at Arc System Works, DRAGON BALL FighterZ is a visual tour-de-force \r\n\r\n* SPECTACULAR FIGHTS\r\nExperience aerial combos, destructible stages, famous scenes from the DRAGON BALL anime reproduced in 60FPS and 1080p resolution (Higher resolution will be supported on PS4 Pro and Xbox Scorpio)",
+        "AgeRating": 13,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/dragon-ball-fighterz"
+    },
     "0100A260094EE000": {
         "id": "0100A260094EE000",
         "nsuId": 70010000005642,
@@ -46305,6 +48346,27 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/solitaire"
     },
+    "0100A2E00BB0C000": {
+        "id": "0100A2E00BB0C000",
+        "nsuId": 70010000016943,
+        "name": "EarthNight",
+        "eshop_name": "EarthNight",
+        "metacritic_platform": "switch",
+        "metascore": "77",
+        "userscore": "82",
+        "release": "2019123",
+        "description": "EarthNight is a hand-painted roguelike runner about the dragon apocalypse. Dragons have taken over the Earth and exiled the decimated human population to outer space. Our outraged heroes Stanley and Sydney decide to skydive to the planet\u2019s surface, taking out as many dragons as they can on their way. In terms of gameplay, Stanley is a good pick for beginners given his simpler control scheme. Sydney is for experts, with a less intuitive \u2014 but ultimately more rewarding \u2014 control scheme.",
+        "AgeRating": 10,
+        "category": [
+            "Arcade",
+            "Platformer",
+            "Action"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/earthnight"
+    },
     "0100A2E00D0E0000": {
         "id": "0100A2E00D0E0000",
         "nsuId": 70010000016483,
@@ -46367,6 +48429,29 @@
             "Cartoon Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/disney-classic-games-aladdin-and-the-lion-king"
+    },
+    "0100A3000F070000": {
+        "id": "0100A3000F070000",
+        "nsuId": 70010000022175,
+        "name": "Electronic Super Joy",
+        "eshop_name": "Electronic Super Joy",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "Electronic Super Joy is a brutally hard platformer set in a world of pulse-pounding electronic music. Run, jump, smash & fly your way through 45+ weird & different levels, with low-gravity, world rotation, giant monsters & swarming missiles.",
+        "AgeRating": 17,
+        "category": [
+            "Platformer",
+            "Arcade",
+            "Action",
+            "Music"
+        ],
+        "ratingContent": [
+            "Strong Language",
+            "Suggestive Themes"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/electronic-super-joy"
     },
     "0100A330022C2000": {
         "id": "0100A330022C2000",
@@ -46704,6 +48789,27 @@
             "Mild Blood"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/safety-first!"
+    },
+    "0100A55003B5C000": {
+        "id": "0100A55003B5C000",
+        "nsuId": 70010000000502,
+        "name": "Cave Story +",
+        "eshop_name": "Cave Story+",
+        "metacritic_platform": "switch",
+        "metascore": "88",
+        "userscore": "79",
+        "release": "20170620",
+        "description": "Cave Story takes you into a rare world where a curious race of innocent, rabbit-like creatures called Mimiga run free. You wake up in a dark cave with no memory of who you are, where you came from or why you're in such a place. Uncovering Mimiga Village, you discover that the once-carefree Mimiga are in danger at the hands of a maniacal scientist. Their only hope rests squarely on the shoulders of a quiet, amnesiac boy who can't remember his own name. Take control, learn the origins of this world's power, stop the delusional villain and save the Mimiga.",
+        "AgeRating": 12,
+        "category": [
+            "Platformer",
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Swearing"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/cave-story-+"
     },
     "0100A56006CEE000": {
         "id": "0100A56006CEE000",
@@ -47170,6 +49276,26 @@
             "Mild Language"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/save-me-mr-tako-tasukete-tako-san"
+    },
+    "0100A6A00E25E000": {
+        "id": "0100A6A00E25E000",
+        "nsuId": 70010000019732,
+        "name": "Remothered: Tormented Fathers",
+        "eshop_name": "Remothered(\u30ea\u30de\u30b6\u30fc\u30c9) : Tormented Fathers",
+        "metacritic_platform": "switch",
+        "metascore": "55",
+        "userscore": null,
+        "release": "20190830",
+        "description": "A game by Darril Arts, directed by Chris Darril and developed by Stormind Games.",
+        "AgeRating": 17,
+        "category": [
+            "\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+            "\u30a2\u30af\u30b7\u30e7\u30f3"
+        ],
+        "ratingContent": [
+            "\u72af\u7f6a"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/remothered-tormented-fathers"
     },
     "0100A6B00D4EC000": {
         "id": "0100A6B00D4EC000",
@@ -48769,6 +50895,29 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/aca-neogeo-aero-fighters-2"
     },
+    "0100AC600D898000": {
+        "id": "0100AC600D898000",
+        "nsuId": 70010000017918,
+        "name": "Rift Keeper",
+        "eshop_name": "Rift Keeper",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191217",
+        "description": "Duty called and the Rift Keeper woke up from his deep slumber. Embark on your journey, travel through rifts, and restore the balance as the Rift Keeper in this handcrafted 2D roguelite platformer with challenging, fast-paced action gameplay.",
+        "AgeRating": 13,
+        "category": [
+            "Platformer",
+            "RPG",
+            "Action",
+            "Other"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/rift-keeper"
+    },
     "0100AC800D022000": {
         "id": "0100AC800D022000",
         "nsuId": 70010000016147,
@@ -49452,6 +51601,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/the-jackbox-party-pack"
     },
+    "0100AE500E76A000": {
+        "id": "0100AE500E76A000",
+        "nsuId": 70010000020482,
+        "name": "AeternoBlade II",
+        "eshop_name": "AeternoBlade II",
+        "metacritic_platform": "switch",
+        "metascore": "45",
+        "userscore": null,
+        "release": "20191011",
+        "description": "",
+        "AgeRating": 13,
+        "category": [
+            "Action",
+            "RPG",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/aeternoblade-ii"
+    },
     "0100AE800C9C6000": {
         "id": "0100AE800C9C6000",
         "nsuId": 70030000006004,
@@ -49645,6 +51815,21 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/game-dev-story"
+    },
+    "0100AF8006AF2000": {
+        "id": "0100AF8006AF2000",
+        "nsuId": null,
+        "name": "The Pinball Arcade",
+        "eshop_name": "Stern Pinball Arcade",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20180511",
+        "description": "The Pinball Arcade franchise includes real tables from Bally, Williams, Gottlieb and Stern, many of which feature well-known licensed themes.  Two new tables will be released every month as downloadable content. Every new table will be available in trial mode, absolutely free.",
+        "AgeRating": null,
+        "category": null,
+        "ratingContent": null,
+        "metacritic_url": "https://www.metacritic.com/game/switch/the-pinball-arcade"
     },
     "0100AFA00DED4000": {
         "id": "0100AFA00DED4000",
@@ -50316,6 +52501,26 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/history-2048"
     },
+    "0100B1E0100A4000": {
+        "id": "0100B1E0100A4000",
+        "nsuId": 70010000025574,
+        "name": "Voxel Galaxy",
+        "eshop_name": "Voxel Galaxy",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Party",
+            "Shooter",
+            "Fighting",
+            "Racing"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/voxel-galaxy"
+    },
     "0100B1F00660E000": {
         "id": "0100B1F00660E000",
         "nsuId": null,
@@ -50793,6 +52998,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/final-fantasy-x-x-2-hd-remaster"
     },
+    "0100B380022AE000": {
+        "id": "0100B380022AE000",
+        "nsuId": 70010000027069,
+        "name": "Shovel Knight Showdown",
+        "eshop_name": "Shovel Knight Showdown",
+        "metacritic_platform": "switch",
+        "metascore": "77",
+        "userscore": "78",
+        "release": "20191210",
+        "description": "Shovel Knight Showdown is the ultimate platform fighting experience, where you can duel with up to 4 players and scramble after gems as your favorite heroic or villainous knight from the Shovel Knight: Treasure Trove saga. Gather your pals for endless multiplayer clashes, or choose from more than 16 playable characters in Story Mode, each with their own unique story to tell. Master every move, explore a vast array of items and locales, and discover new revelations in Shovel Knight Showdown. When a magical catastrophe creates a world of never-ending battle, the heroes and villains of the Shovel Knight saga must discover the source of the disaster and fight to set things right! Play as your favorite character (alone or with a friend in co-op battles), face off against powerful rivals, and perfect your platform fighting skills in full-featured practice and target modes on your way to an all-new final encounter. Unlock new content and revisit Shovel Knight Showdown again and again as you dig into an immense variety of single-player and local multiplayer modes, features, and customizations.",
+        "AgeRating": 6,
+        "category": [
+            "Action",
+            "Multiplayer",
+            "Fighting",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/shovel-knight-showdown"
+    },
     "0100B3900B766000": {
         "id": "0100B3900B766000",
         "nsuId": 70010000011627,
@@ -50992,6 +53219,30 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/solitaire-battle-royal"
+    },
+    "0100B4700BFC6000": {
+        "id": "0100B4700BFC6000",
+        "nsuId": 70010000014168,
+        "name": "Call of Juarez: Gunslinger",
+        "eshop_name": "Call of Juarez: Gunslinger",
+        "metacritic_platform": "switch",
+        "metascore": "67",
+        "userscore": "83",
+        "release": "20191210",
+        "description": "From the dust of a gold mine to the dirt of a saloon, Call of Juarez Gunslinger is a real homage to the Wild West tales. Live the epic and violent journey of a ruthless bounty hunter onto the trail of the West's most notorious outlaws. Blurring the lines between man and myth, this adventure made of memorable encounters unveils the untold truth behind some of the greatest legends of the Old West.",
+        "AgeRating": 17,
+        "category": [
+            "Arcade",
+            "Shooter",
+            "First-Person Shooter"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Mild Sexual Themes",
+            "Strong Language",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/call-of-juarez-gunslinger"
     },
     "0100B4700C57E000": {
         "id": "0100B4700C57E000",
@@ -51555,6 +53806,26 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/love"
     },
+    "0100B6200D8D2000": {
+        "id": "0100B6200D8D2000",
+        "nsuId": 70010000019965,
+        "name": "Five Nights at Freddy's HD",
+        "eshop_name": "Five Nights at Freddy's",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191129",
+        "description": "Welcome to your new summer job at Freddy Fazbear's Pizza, where kids and parents alike come for entertainment and food as far as the eye can see! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds! The robots' behavior has become somewhat unpredictable at night however, and it was much cheaper to hire you as a security guard than to find a repairman.",
+        "AgeRating": 13,
+        "category": [
+            "Strategy",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/five-nights-at-freddys-hd"
+    },
     "0100B6400CA56000": {
         "id": "0100B6400CA56000",
         "nsuId": 70010000018502,
@@ -51916,6 +54187,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/cave-story-+"
     },
+    "0100B7E0102E4000": {
+        "id": "0100B7E0102E4000",
+        "nsuId": 70010000026255,
+        "name": "Drawngeon: Dungeons of Ink and Paper",
+        "eshop_name": "Drawngeon: Dungeons of Ink and Paper",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191213",
+        "description": "Life went on as usual in the Inkland\u2026 until the Tower fell straight from the sky! Many heroes tried to solve its mystery, but none of them succeeded. It\u2019s your turn to prove your worth.\r\n\r\nChoose your class - warrior, magician or rogue - each with their own strength and abilities. Loot and buy items, fight with various weapons, create and cast powerful spells. All the ingredients of a good role-playing game are there, but with a unique real-time combat based on grid movement \u2013 like on a piece of paper! The hand-drawn graphics especially fit the dark and old-school heroic fantasy settings.\r\n\r\nDrawngeon is a RPG adventure that can also be played in short gameplay sessions, thanks to the procedural generation of dungeons, caves, forests and items you will find as you progress and develop your character.",
+        "AgeRating": 13,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/drawngeon-dungeons-of-ink-and-paper"
+    },
     "0100B7F00B4E6000": {
         "id": "0100B7F00B4E6000",
         "nsuId": 70010000011224,
@@ -52164,6 +54456,31 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/aca-neogeo-aero-fighters-3"
     },
+    "0100B9500D1B0000": {
+        "id": "0100B9500D1B0000",
+        "nsuId": 70010000020488,
+        "name": "Dauntless",
+        "eshop_name": "Dauntless",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191210",
+        "description": "Discover a shattered world, forge powerful weapons, and hunt the ferocious behemoths threatening our survival.",
+        "AgeRating": 13,
+        "category": [
+            "Action",
+            "Adventure",
+            "RPG",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/dauntless"
+    },
     "0100B9500E886000": {
         "id": "0100B9500E886000",
         "nsuId": 70010000022301,
@@ -52204,6 +54521,27 @@
             "Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/aca-neogeo-the-king-of-fighters-2000"
+    },
+    "0100B9F00C162000": {
+        "id": "0100B9F00C162000",
+        "nsuId": 70010000013688,
+        "name": "Space Blaze",
+        "eshop_name": "Space Blaze",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019125",
+        "description": "",
+        "AgeRating": 10,
+        "category": [
+            "Arcade",
+            "Action",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/space-blaze"
     },
     "0100BA0003EEA000": {
         "id": "0100BA0003EEA000",
@@ -52887,6 +55225,28 @@
             "In-Game Purchases"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/onigiri"
+    },
+    "0100BC300CB48000": {
+        "id": "0100BC300CB48000",
+        "nsuId": 70010000015381,
+        "name": "Final Fantasy X / X-2 HD Remaster",
+        "eshop_name": "FINAL FANTASY X/X-2 HD Remaster",
+        "metacritic_platform": "switch",
+        "metascore": "85",
+        "userscore": null,
+        "release": "20190416",
+        "description": "Two of the Most Celebrated RPGs of their Generation - Now in Beautiful High Definition!\r\n\r\nOver 200 hours of gameplay, including the International version content never before released in North America.\r\n\r\nRelive the fateful journey with fully remastered HD visuals and rearranged music.",
+        "AgeRating": 13,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Suggestive Themes",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/final-fantasy-x-x-2-hd-remaster"
     },
     "0100BC300CB49001": {
         "id": "0100BC300CB49001",
@@ -53982,6 +56342,21 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/divine-ascent"
     },
+    "0100C0200A4C0000": {
+        "id": "0100C0200A4C0000",
+        "nsuId": null,
+        "name": "Brawlout",
+        "eshop_name": "Brawlout",
+        "metacritic_platform": "switch",
+        "metascore": "60",
+        "userscore": null,
+        "release": "20171219",
+        "description": "Brawlout packs a punch with couch and online play modes, blending platform fighter mechanics and traditional fighting game play into a stylish and fluid battle royale. Rather than slow-paced defensive battles, Brawlout goes all-out with the lightning-fast aerobatics which platform fighters are famous for. Striking the balance between the growing competitive scene and the genre\u2019s party game roots, Brawlout hopes to cater to the veteran platform fighter, the casual fan and the newcomer looking to make their mark.",
+        "AgeRating": null,
+        "category": null,
+        "ratingContent": null,
+        "metacritic_url": "https://www.metacritic.com/game/switch/brawlout"
+    },
     "0100C0A004C2C000": {
         "id": "0100C0A004C2C000",
         "nsuId": 70010000001123,
@@ -54490,6 +56865,29 @@
             "Use of Tobacco"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/blazing-chrome"
+    },
+    "0100C2700E338000": {
+        "id": "0100C2700E338000",
+        "nsuId": 70010000019796,
+        "name": "Heroland",
+        "eshop_name": "Heroland",
+        "metacritic_platform": "switch",
+        "metascore": "69",
+        "userscore": null,
+        "release": "2019123",
+        "description": "Highly customizable RPG - as a hero Tour guide, you choose what your party does, and when! Customize strategies, weapons, and more, including taking home treasure to decorate Lucky's room.",
+        "AgeRating": 13,
+        "category": [
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Language",
+            "Suggestive Themes"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/heroland"
     },
     "0100C2D00981E000": {
         "id": "0100C2D00981E000",
@@ -55221,6 +57619,29 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/penny-punching-princess"
     },
+    "0100C5100DB04000": {
+        "id": "0100C5100DB04000",
+        "nsuId": 70010000018592,
+        "name": "Cardpocalypse",
+        "eshop_name": "Cardpocalypse",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191212",
+        "description": "Make friends, play cards, twist the rules, become a Mega Mutant Power Pets master, and try to save the world in this single-player RPG about being a 90\u2019s kid. On her first day at Dudsdale Elementary, 10-year old Jess accidentally gets everybody's favorite collectible card game banned, forcing the kids to take their card battles underground. Troubles arise when mutants from the game invade the real world, and it\u2019s up to Jess and friends to stop them.",
+        "AgeRating": 10,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Strategy",
+            "Other"
+        ],
+        "ratingContent": [
+            "Crude Humor",
+            "Mild Language"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/cardpocalypse"
+    },
     "0100C5200D178000": {
         "id": "0100C5200D178000",
         "nsuId": 70010000016344,
@@ -55650,6 +58071,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-tnk-iii"
     },
+    "0100C7800CA06000": {
+        "id": "0100C7800CA06000",
+        "nsuId": 70010000015216,
+        "name": "Widget Satchel",
+        "eshop_name": "Widget Satchel",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191127",
+        "description": "You are Sprocket, an adorable ferret on a remote space station. Escape your playpen and make your way to the shuttlebay with the most stuff. Widget Satchel is a thrilling adventure for one little thief, with fiendish puzzles, joyous platforming, and dozens of hidden collectables. As you stumble deeper though the station evading your human caretakers, you steal things like widgets and socks. And you stash them, because you\u2019re a ferret. Every widget you collect adds to the weight of your satchel, making it a little harder to reach the next platform or avoid the station\u2019s maintenance bots. Stash enough widgets, and you can use them to fabricate doohickeys, which help you unlock new paths and previously out of reach areas. It\u2019s a ferretroidvania!",
+        "AgeRating": 6,
+        "category": [
+            "Platformer",
+            "Action",
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/widget-satchel"
+    },
     "0100C7C00AE6C000": {
         "id": "0100C7C00AE6C000",
         "nsuId": 70010000010124,
@@ -55852,6 +58295,21 @@
             "Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/deer-drive-legends"
+    },
+    "0100C8D00D142000": {
+        "id": "0100C8D00D142000",
+        "nsuId": null,
+        "name": "Gunbird 2 for Nintendo Switch",
+        "eshop_name": "ZEROGUNNER2- for Nintendo Switch",
+        "metacritic_platform": "switch",
+        "metascore": "73",
+        "userscore": null,
+        "release": "20180621",
+        "description": "Straight from the hit arcade game, Gunbird 2 is the most intense test of coordination and skill. This action shooters features 7 characters on a quest for the magical ingredients to produce the All-Purpose Medicine. On a journey to see the wise medicine master, you are intercepted by a rowdy band of pirates. Now, maneuver through insane levels of enemy fire to pick up power-ups and other weapons and be the first to recover your stolen bounty and unlock the secret of the medicine master.",
+        "AgeRating": null,
+        "category": null,
+        "ratingContent": null,
+        "metacritic_url": "https://www.metacritic.com/game/switch/gunbird-2-for-nintendo-switch"
     },
     "0100C8E0083C4000": {
         "id": "0100C8E0083C4000",
@@ -56606,6 +59064,23 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/super-dragon-ball-heroes-world-mission"
     },
+    "0100CAF00C4633EF": {
+        "id": "0100CAF00C4633EF",
+        "nsuId": 70050000010914,
+        "name": "Super Dragon Ball Heroes: World Mission",
+        "eshop_name": "Super Dragon Ball Heroes: World Mission Power-Up Pack",
+        "metacritic_platform": "switch",
+        "metascore": "69",
+        "userscore": null,
+        "release": "2019045",
+        "description": "It's a strategic card battle game featuring characters from across the entire DRAGON BALL series. Collect cards & build your deck as you play through an all-new DRAGON BALL story.",
+        "AgeRating": 12,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/super-dragon-ball-heroes-world-mission"
+    },
     "0100CAF00C4633F2": {
         "id": "0100CAF00C4633F2",
         "nsuId": 70050000010914,
@@ -56712,6 +59187,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/aca-neogeo---garou-mark-of-the-wolves"
     },
+    "0100CB400E9BC000": {
+        "id": "0100CB400E9BC000",
+        "nsuId": 70010000020959,
+        "name": "Steins;Gate: My Darling's Embrace",
+        "eshop_name": "STEINS;GATE: My Darling's Embrace",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191210",
+        "description": "",
+        "AgeRating": 13,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Language",
+            "Sexual Themes"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/steinsgate-my-darlings-embrace"
+    },
     "0100CB5009A2C000": {
         "id": "0100CB5009A2C000",
         "nsuId": 70010000014915,
@@ -56729,6 +59225,25 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/razed"
+    },
+    "0100CB500CE76000": {
+        "id": "0100CB500CE76000",
+        "nsuId": 70010000015959,
+        "name": "Fishing: Barents Sea - Complete Edition",
+        "eshop_name": "Fishing: Barents Sea Complete Edition",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191210",
+        "description": "Take the helm of your very own fishing boat and explore the vastness of the Norwegian sea. Start with the little boat inherited from your grandfather, catch fish, and earn money for upgrades as well as bigger and better boats. Enjoy the beautiful Barents Sea and make your fishing industry dreams come true.",
+        "AgeRating": 6,
+        "category": [
+            "Simulation"
+        ],
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/fishing-barents-sea---complete-edition"
     },
     "0100CB60092A2000": {
         "id": "0100CB60092A2000",
@@ -57073,6 +59588,23 @@
             "Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/reigns-kings-queens"
+    },
+    "0100CCE00BC48000": {
+        "id": "0100CCE00BC48000",
+        "nsuId": 70030000003781,
+        "name": "Shift Quantum",
+        "eshop_name": "Shift Quantum Demo",
+        "metacritic_platform": "switch",
+        "metascore": "78",
+        "userscore": "78",
+        "release": "20180529",
+        "description": "Axon Vertigo, the world\u2019s leading authority and most trusted friend in cerebral contentedness programming, promises to deliver better life quality for everyone with the Shift Quantum program.",
+        "AgeRating": 12,
+        "category": null,
+        "ratingContent": [
+            "Moderate Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/shift-quantum"
     },
     "0100CD100BEA4000": {
         "id": "0100CD100BEA4000",
@@ -58491,6 +61023,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/atelier-ryza-ever-darkness-the-secret-hideout"
     },
+    "0100D1900EC810D1": {
+        "id": "0100D1900EC810D1",
+        "nsuId": 70050000017644,
+        "name": "Captain StarONE",
+        "eshop_name": "Captain Tao",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019027",
+        "description": "",
+        "AgeRating": 13,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/captain-starone"
+    },
     "0100D1A00C330000": {
         "id": "0100D1A00C330000",
         "nsuId": 70010000014062,
@@ -58738,6 +61290,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/salt-and-sanctuary"
     },
+    "0100D2501001A000": {
+        "id": "0100D2501001A000",
+        "nsuId": 70010000025490,
+        "name": "FoxyLand",
+        "eshop_name": "FoxyLand",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191129",
+        "description": "Help Foxy Fox on a dangerous journey to rescue his love, Jennie. Without your help, Foxy won\u2019t be able to save her. Embark on an adventure to rescue Jennie! Jump and dodge past challenging enemies and traps while collecting gems and cherries across 36 levels.",
+        "AgeRating": 6,
+        "category": [
+            "Platformer",
+            "Arcade",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/foxyland"
+    },
     "0100D2600736A000": {
         "id": "0100D2600736A000",
         "nsuId": 70010000002737,
@@ -58981,6 +61554,27 @@
             "Cartoon Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp"
+    },
+    "0100D3D008E6C000": {
+        "id": "0100D3D008E6C000",
+        "nsuId": 70010000004652,
+        "name": "Tiny Troopers: Joint Ops XL",
+        "eshop_name": "Tiny Troopers Joint Ops XL",
+        "metacritic_platform": "switch",
+        "metascore": "50",
+        "userscore": null,
+        "release": "20171221",
+        "description": "",
+        "AgeRating": 15,
+        "category": [
+            "\u30a2\u30af\u30b7\u30e7\u30f3",
+            "\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0",
+            "\u30a2\u30fc\u30b1\u30fc\u30c9"
+        ],
+        "ratingContent": [
+            "\u66b4\u529b"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/tiny-troopers-joint-ops-xl"
     },
     "0100D3F008746000": {
         "id": "0100D3F008746000",
@@ -59355,6 +61949,61 @@
             "Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/our-world-is-ended"
+    },
+    "0100D5D00DAF2000": {
+        "id": "0100D5D00DAF2000",
+        "nsuId": 70010000018567,
+        "name": "Story of a Gladiator",
+        "eshop_name": "Story of a Gladiator",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191127",
+        "description": "Story of a Gladiator is an arena beat 'em up where you take the role of a man in search of his destiny, only to find it in the sands of the colosseum. You are a common man who has lost everything in the war against the Roman empire. Your family is dead, your friends are dead, your house has been burned down and your land is now under Roman rule. Despite such misfortune you have managed to escape slavery or worse. You spend much of your time in the streets of Rome looking for some sort of meaning in your life and wondering why the gods have spared you. One day fate finally reveals itself, are you ready to accept it?",
+        "AgeRating": 17,
+        "category": [
+            "Action",
+            "Arcade",
+            "Fighting"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/story-of-a-gladiator"
+    },
+    "0100D6000B52C000": {
+        "id": "0100D6000B52C000",
+        "nsuId": 70010000012646,
+        "name": "SNK Heroines: Tag Team Frenzy - Thief Arthur",
+        "eshop_name": "SNK HEROINES Tag Team Frenzy",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20180920",
+        "description": "",
+        "AgeRating": 15,
+        "category": [
+            "\u683c\u9b25",
+            "\u52d5\u4f5c"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/snk-heroines-tag-team-frenzy---thief-arthur"
+    },
+    "0100D6000B52D001": {
+        "id": "0100D6000B52D001",
+        "nsuId": 70050000007581,
+        "name": "SNK Heroines: Tag Team Frenzy",
+        "eshop_name": "SNK HEROINES Tag Team Frenzy\uff1a\u65b0\u589e\u89d2\u8272\"\u76dc\u8cca\u4e9e\u745f\"",
+        "metacritic_platform": "switch",
+        "metascore": "60",
+        "userscore": null,
+        "release": "2018097",
+        "description": "Play online or with friends as SNK's iconic heroines in the brand-new 2 vs 2 fighting game, SNK HEROINES Tag Team Frenzy. Activate Special Moves with a single button, and make use of special items to change the tide of battle! However, the fight isn't over the moment you've chipped enough health away. Once your opponent is on the ropes, utilize your Dream Finish technique to win the match. Spectate on other battles online, and wage on who you think will win using in-game points. Use your winnings to buy voice clips and accessories in an all-new costume system, and customize your favorite heroine to your heart's content.",
+        "AgeRating": 15,
+        "category": null,
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/snk-heroines-tag-team-frenzy"
     },
     "0100D6000B52D003": {
         "id": "0100D6000B52D003",
@@ -60079,6 +62728,27 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/mxgp3-the-official-motocross-videogame"
     },
+    "0100D9400F08E000": {
+        "id": "0100D9400F08E000",
+        "nsuId": 70010000022202,
+        "name": "Away: Journey to the Unexpected",
+        "eshop_name": "AWAY: Journey to the Unexpected",
+        "metacritic_platform": "switch",
+        "metascore": "62",
+        "userscore": null,
+        "release": "2019027",
+        "description": "Away: Journey to the Unexpected is a feel-good FPS game that combines action, negotiation and slightly roguish elements, presented in an animated style. Progress through the levels and the story, choose your path, but above all, recruit allies. All the strange characters you meet in game can be played in first person, and it\u2019s up to you to find the right answers to get them to join your team.",
+        "AgeRating": 12,
+        "category": [
+            "\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+            "\u30a2\u30af\u30b7\u30e7\u30f3",
+            "\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0"
+        ],
+        "ratingContent": [
+            "\u66b4\u529b"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/away-journey-to-the-unexpected"
+    },
     "0100D9500A0F6000": {
         "id": "0100D9500A0F6000",
         "nsuId": 70010000007845,
@@ -60396,6 +63066,24 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/radiation-city"
     },
+    "0100DA500EFB0000": {
+        "id": "0100DA500EFB0000",
+        "nsuId": 70010000022407,
+        "name": "Football Manager 2020 Touch",
+        "eshop_name": "Football Manager 2020 Touch",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191210",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Simulation",
+            "Sports"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/football-manager-2020-touch"
+    },
     "0100DA700879C000": {
         "id": "0100DA700879C000",
         "nsuId": 70010000004110,
@@ -60437,6 +63125,25 @@
             "Mild Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/7-billion-humans"
+    },
+    "0100DA900FCEA000": {
+        "id": "0100DA900FCEA000",
+        "nsuId": 70010000024772,
+        "name": "Chameleon",
+        "eshop_name": "Chameleon",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191126",
+        "description": "This puzzle game offers players simple controls that are easy to get into along with competitive play as you attempt to match colors on your playfield. The game features several playable characters along with a bonus character. Each character has her own special power, which can be used to hinder the opponent. Wireless play and a variety of rule sets bring great replay-ability to this addictive game.",
+        "AgeRating": 6,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/chameleon"
     },
     "0100DAA00AEE6000": {
         "id": "0100DAA00AEE6000",
@@ -60729,6 +63436,25 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/pinball-fx3-williams-pinball---volume-2"
     },
+    "0100DB7003829011": {
+        "id": "0100DB7003829011",
+        "nsuId": 70050000011666,
+        "name": "Pinball FX3: Williams Pinball - Volume 5",
+        "eshop_name": "Pinball FX3 - Williams\u2122 Pinball: Volume 4",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191210",
+        "description": "",
+        "AgeRating": 10,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Digital Purchases"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/pinball-fx3-williams-pinball---volume-5"
+    },
     "0100DB7003829012": {
         "id": "0100DB7003829012",
         "nsuId": 70050000015081,
@@ -60747,6 +63473,25 @@
             "Digital Purchases"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/pinball-fx3---williams-pinball-universal-monsters"
+    },
+    "0100DB7003829013": {
+        "id": "0100DB7003829013",
+        "nsuId": 70050000017114,
+        "name": "Pinball FX3: Williams Pinball - Volume 5",
+        "eshop_name": "Pinball FX3 - Williams\u2122 Pinball: Volume 5",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191210",
+        "description": "",
+        "AgeRating": 10,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Digital Purchases"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/pinball-fx3-williams-pinball---volume-5"
     },
     "0100DBC0081A4000": {
         "id": "0100DBC0081A4000",
@@ -61316,6 +64061,25 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/little-shopping"
+    },
+    "0100DD700F1F6000": {
+        "id": "0100DD700F1F6000",
+        "nsuId": 70010000022430,
+        "name": "Amazing Brick Breaker",
+        "eshop_name": "Amazing Brick Breaker",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "Enjoy easy game control, clear graphic, and the best strike. Shoot the ball and destroy the brick. Colorful graphic expresses lively movement.",
+        "AgeRating": 6,
+        "category": [
+            "Arcade",
+            "Puzzle",
+            "Other"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/amazing-brick-breaker"
     },
     "0100DDA00C0BC000": {
         "id": "0100DDA00C0BC000",
@@ -63157,6 +65921,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/chicken-assassin-reloaded"
     },
+    "0100E3D00EA82000": {
+        "id": "0100E3D00EA82000",
+        "nsuId": 70010000021096,
+        "name": "SIMULACRA",
+        "eshop_name": "SIMULACRA",
+        "metacritic_platform": "switch",
+        "metascore": "60",
+        "userscore": null,
+        "release": "2019123",
+        "description": "\"Simulacra expands upon its predecessor, Sara is Missing, experimenting even further with unsettling horror. And it succeeds.\"\n9/10 - Pocket Gamer\n\n\"WINNER, Excellence in Storytelling\" - International Mobile Game Awards SEA\n\"NOMINATED, Most Innovative Game\" - Indie Prize Kyiv 2017\n\nYou found the lost phone of a woman named Anna. In it, you see a desperate cry for help in the form of a video message. The phone behaves strangely as you dive deeper into it. You talk to her friends and they have no idea where she is. Her texts, emails and photo gallery provides fragments of information as the mystery deepens. It's up to you to piece it together.\n\nAbout the Game\n\nSIMULACRA is a realistic \"found phone\" horror game that takes place entirely on the screen of a mobile phone. A voyeuristic experience that combines of point and click adventure games, found footage videos and fully realised phone apps. \n\nFeatures:\n\n- Explore a fully realised world through a simulated phone.\n- Solve the mystery using through popular phone apps.\n- An expansive narrative with hours of gameplay that leads to 5 possible endings.\n- Filmed with live actors and an extensive VO cast.\n- Solve the recurring image and text decryption puzzles to learn more about Anna's story.",
+        "AgeRating": 17,
+        "category": [
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Sexual Themes",
+            "Strong Language"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/simulacra"
+    },
     "0100E4200D84E000": {
         "id": "0100E4200D84E000",
         "nsuId": 70010000017889,
@@ -64877,6 +67662,26 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/gotcha-racing-2nd"
     },
+    "0100E9000C42C000": {
+        "id": "0100E9000C42C000",
+        "nsuId": 70010000014288,
+        "name": "Tick Tock: A Tale for Two",
+        "eshop_name": "Tick Tock: A Tale for Two",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019125",
+        "description": "In Tick Tock: A Tale for Two you and your friend find yourself trapped in an eerie world created by the skilful clockmaker Amalie Ravn. Your mission is to escape! But to do so you need to navigate a mysterious, sinister clockwork world filled with secrets and cryptic puzzles. To find the truth and ultimately escape this place, you must combine the information on both players\u2019 screens.  Prepare yourselves for a narrative adventure where your communication skills are put to the test. Shout out instructions, discuss what you see, and listen. But remember: time is ticking.",
+        "AgeRating": 6,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Multiplayer",
+            "Communication"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/tick-tock-a-tale-for-two"
+    },
     "0100E95004038000": {
         "id": "0100E95004038000",
         "nsuId": 70010000000707,
@@ -65099,6 +67904,25 @@
             "Mild Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-donkey-kong"
+    },
+    "0100E9E00DBF4000": {
+        "id": "0100E9E00DBF4000",
+        "nsuId": 70010000018826,
+        "name": "GENSOU SkyDrift",
+        "eshop_name": "GENSOU Skydrift",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191212",
+        "description": "A Touhou Project racing game is here. In the mystical land of Gensokyo somewhere in Japan, humans and yokai live together in strange harmony. One day, some girls notice that their spirit energy is weak. Yokai specialist Reimu Hakurei and her friend Marisa Kirisame spot someone running off on a racetrack...",
+        "AgeRating": 6,
+        "category": [
+            "Racing",
+            "Party",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/gensou-skydrift"
     },
     "0100E9F00B882000": {
         "id": "0100E9F00B882000",
@@ -65630,6 +68454,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/the-card-poker-texas-hold-em-blackjack-page-one"
     },
+    "0100EB600E914000": {
+        "id": "0100EB600E914000",
+        "nsuId": 70010000020835,
+        "name": "Farming Simulator 20",
+        "eshop_name": "Farming Simulator 20",
+        "metacritic_platform": "switch",
+        "metascore": "62",
+        "userscore": null,
+        "release": "2019123",
+        "description": "In Farming Simulator 20, take control of vehicles and machines faithfully recreated from leading brands in the industry. For the first time on Nintendo Switch, this includes John Deere, the largest agriculture machinery company in the world. Drive other famous farming brands such as Case IH, New Holland, Challenger, Fendt, Valtra, Krone, Deutz-Fahrand many more.\n\nFarming Simulator 20 features a new North American environment in which to develop and expand your farm. Enjoy many exciting farming activities, including new machinery and crops with cotton and oats, new to the Nintendo Switch! Tend to your livestock of pigs, cows, and sheep, and now ride your own horses, letting you explore the vast land around your farm in a brand-new way.",
+        "AgeRating": 6,
+        "category": [
+            "Simulation",
+            "Education",
+            "Lifestyle"
+        ],
+        "ratingContent": [
+            "No Descriptors"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/farming-simulator-20"
+    },
     "0100EB700EF74000": {
         "id": "0100EB700EF74000",
         "nsuId": 70010000022046,
@@ -65849,6 +68694,30 @@
             "Suggestive Themes"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/deadly-premonition-origins"
+    },
+    "0100EBF00E702000": {
+        "id": "0100EBF00E702000",
+        "nsuId": 70010000022150,
+        "name": "Star Ocean: First Departure R",
+        "eshop_name": "STAR OCEAN First Departure R",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": "78",
+        "release": "2019125",
+        "description": "Space Date: 346. From a power yet undiscovered, a new generation will be born. Our tale begins on the primitive planet of Roak where Roddick lives in the peaceful and uneventful town of Kratus. As a member of the village\u2019s local \u201cDefence Force\u201d tasked with the protection of Kratus, Roddick learns of a mysterious disease that has broken out in the neighboring town. Those infected turn to stone, but continue to live on in a petrified state. Roddick, along with his two friends Millie and Dorne, make their way to the neighboring town. Informed of a cure for the sickness, they head to Mt. Metorx where a healing herb is rumored to grow. When they reach the summit, the party encounter Ronyx and Ilia, who appear before them in a pillar of light. Thus, the story of STAR OCEAN begins...",
+        "AgeRating": 13,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Crude Humor",
+            "Mild Language",
+            "Suggestive Themes",
+            "Use of Alcohol and Tobacco",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/star-ocean-first-departure-r"
     },
     "0100EC000CE24000": {
         "id": "0100EC000CE24000",
@@ -66593,6 +69462,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/blazblue-central-fiction---special-edition"
     },
+    "0100EE900AB58000": {
+        "id": "0100EE900AB58000",
+        "nsuId": 70010000009652,
+        "name": "BlazBlue: Central Fiction - Special Edition",
+        "eshop_name": "BLAZBLUE CENTRALFICTION Special Edition",
+        "metacritic_platform": "switch",
+        "metascore": "86",
+        "userscore": "83",
+        "release": "2019027",
+        "description": "BlazBlue: Central Fiction is the newest installment in the storied BlazBlue franchise and stands alone as the pinnacle of next gen 2D fighters! Like a well-timed 2D punch, BlazBlue: Central Fiction bashes massive amounts of content and innovation into one slick title that hits hard and keeps the pummeling steady! Prepare yourself for a brand new story, new characters, levels, modes, system mechanics and more! Choose from over 33 unimaginable fighters as you battle for 2D supremacy!",
+        "AgeRating": 15,
+        "category": [
+            "\u683c\u95d8",
+            "\u30a2\u30fc\u30b1\u30fc\u30c9",
+            "\u30a2\u30af\u30b7\u30e7\u30f3",
+            "\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+        ],
+        "ratingContent": [
+            "\u30bb\u30af\u30b7\u30e3\u30eb"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/blazblue-central-fiction---special-edition"
+    },
     "0100EEA00AFB2000": {
         "id": "0100EEA00AFB2000",
         "nsuId": 70010000010379,
@@ -66610,6 +69501,27 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/aca-neogeo-football-frenzy"
+    },
+    "0100EEA00E3EA000": {
+        "id": "0100EEA00E3EA000",
+        "nsuId": 70010000019915,
+        "name": "One-way Ticket",
+        "eshop_name": "One-Way Ticket",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "One-Way Ticket is a visual novel loosely based around actual events. A group of men and women, isolated at sea on a long-distance fishing vessel, suddenly find their very humanity at stake as crew members begin turning up dead.",
+        "AgeRating": 17,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Strong Language",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/one-way-ticket"
     },
     "0100EEB005ACC000": {
         "id": "0100EEB005ACC000",
@@ -67437,6 +70349,25 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/venture-towns"
     },
+    "0100F160092D2000": {
+        "id": "0100F160092D2000",
+        "nsuId": 70010000005241,
+        "name": "Steins;Gate Elite",
+        "eshop_name": "STEINS;GATE ELITE",
+        "metacritic_platform": "switch",
+        "metascore": "85",
+        "userscore": "76",
+        "release": "20190219",
+        "description": "Follow a group of young, tech-savvy \u201clab members\u201d who discover the means of changing the past via e-mail using a modified microwave. Their experiments in pushing the boundaries of time begin to spiral out of control as they become entangled in a conspiracy surrounding SERN, the organization behind the Large Hadron Collider, and John Titor, who claims to be from a dystopian future.",
+        "AgeRating": 15,
+        "category": [
+            "\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+        ],
+        "ratingContent": [
+            "\u66b4\u529b"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/steinsgate-elite"
+    },
     "0100F17004156000": {
         "id": "0100F17004156000",
         "nsuId": 70010000000772,
@@ -68028,6 +70959,24 @@
         "ratingContent": null,
         "metacritic_url": "https://www.metacritic.com/game/switch/lust-for-darkness"
     },
+    "0100F3300EDE8000": {
+        "id": "0100F3300EDE8000",
+        "nsuId": 70010000021704,
+        "name": "Junior League Sports",
+        "eshop_name": "Junior League Sports - Soccer",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019107",
+        "description": "The game is split into 3 sections Basketball, Ice Hockey and Soccer. The Game visuals are set in a cartoon/childlike environment. Each game revolves around playing an informal game of the sport. The game does not attempt a realistic simulation, or implement all the technical rules of the sports. The Game lets the player challenge an AI team or play head to head against a friend. Good play generates SKILL points that allow team members to pull-off spectacular cartoon-style moves, such as extended jumps, and super shots leaving a trail of stars that are guaranteed to go in. Single player Mode offers a knock-out cup and a league where every team will play every other team, and the one with the most points at the end comes top.",
+        "AgeRating": 3,
+        "category": [
+            "Sports",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/junior-league-sports"
+    },
     "0100F3400A432000": {
         "id": "0100F3400A432000",
         "nsuId": 70010000009845,
@@ -68149,6 +71098,29 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/food-truck-tycoon"
+    },
+    "0100F3A00F4CA000": {
+        "id": "0100F3A00F4CA000",
+        "nsuId": 70010000023423,
+        "name": "Kissed by the Baddest Bidder",
+        "eshop_name": "Kissed by the Baddest Bidder",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191128",
+        "description": "Working at Japan\u2019s first hotel & casino, you stumble upon a black-market auction, and end up as one of the items for sale. \u201cI\u2019ll let you decide who buys you.\u201d Five men place the winning bid, and now you\u2019re completely at their mercy\u2026",
+        "AgeRating": 17,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Drug Reference",
+            "Sexual Content",
+            "Strong Language",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/kissed-by-the-baddest-bidder"
     },
     "0100F3A00FB78000": {
         "id": "0100F3A00FB78000",
@@ -68729,6 +71701,47 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/flowlines-vs"
+    },
+    "0100F5E008AA0000": {
+        "id": "0100F5E008AA0000",
+        "nsuId": 70030000001001,
+        "name": "Lost Sphear",
+        "eshop_name": "LOST SPHEAR Demo",
+        "metacritic_platform": "switch",
+        "metascore": "69",
+        "userscore": null,
+        "release": "20180123",
+        "description": "As an ominous power threatens the fabric of reality, a young man chosen by destiny must arise to face a phenomenon never seen before. Enter Kanata, as he awakens from a devastating dream leading him to find his home, erased from existence. Awaken the power of Memory to restore the Lost and rebuild the world!",
+        "AgeRating": 10,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Language"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/lost-sphear"
+    },
+    "0100F6000EAA8000": {
+        "id": "0100F6000EAA8000",
+        "nsuId": 70010000021120,
+        "name": "Must Dash Amigos",
+        "eshop_name": "Must Dash Amigos",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "2019125",
+        "description": "Experience a Loco top-down Battle Racer filled with Pi\u00f1ata Stampedes, Avocados and mayhem for up to 4 Players. Must Dash Amigos is a humorous, family friendly fun-fest with controls so simple that anyone can play.",
+        "AgeRating": 6,
+        "category": [
+            "Racing",
+            "Party",
+            "Multiplayer",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/must-dash-amigos"
     },
     "0100F6200B7D4000": {
         "id": "0100F6200B7D4000",
@@ -69443,6 +72456,21 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/dungeon-warfare"
     },
+    "0100F8A004458000": {
+        "id": "0100F8A004458000",
+        "nsuId": null,
+        "name": "The Binding of Isaac: Afterbirth +",
+        "eshop_name": "The Binding of Isaac: Afterbirth+",
+        "metacritic_platform": "switch",
+        "metascore": "85",
+        "userscore": "82",
+        "release": "20170317",
+        "description": "The latest expansion to The Binding of Isaac: Rebirth features: 55+ new items, new final chapter with boss and ending, new playable character, greed hard mode, daily greed runs, 5 new challenges, loads of new achievements, new bosses and other little editions, plus new dev tools! so you can design, edit and play and endless number of mods, features and whole new games that the community will no doubt eventually design.",
+        "AgeRating": null,
+        "category": null,
+        "ratingContent": null,
+        "metacritic_url": "https://www.metacritic.com/game/switch/the-binding-of-isaac-afterbirth-+"
+    },
     "0100F8A00853C000": {
         "id": "0100F8A00853C000",
         "nsuId": 70010000003816,
@@ -69486,6 +72514,25 @@
             "Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/omega-strike"
+    },
+    "0100F8F0000A2000": {
+        "id": "0100F8F0000A2000",
+        "nsuId": 70010000000151,
+        "name": "Splatoon 2",
+        "eshop_name": "Splatoon\u2122 2",
+        "metacritic_platform": "switch",
+        "metascore": "83",
+        "userscore": "85",
+        "release": "20170721",
+        "description": "Ink-splatting action is back and fresher than ever. Get hyped for the sequel to the game about splatting ink and claiming turf, as the squid-like Inklings return in a colorful and chaotic 4 vs. 4 action shooter. For the first time, take Turf War battles on-the-go via local multiplayer in portable play styles. You can also compete in frenetic online matches like before. Two years have passed since the release of Splatoon, and two years have also passed in the game world, leading to an evolution in fashion trends and new styles of weapons and gear. Staying fresh never looked so good. Features: New weapons  New dual-wielding Splat Dualies join the action, complete with a new Dodge Roll move. Mainstays like the Splat Roller and Splat Charger have also been remixed to include new gameplay mechanics and brand-new special weapons. Local and Online Multiplayer  In a first for the series, compete in local multiplayer Turf War battles, whether in TV mode or on-the-go in handheld or tabletop modes. Online battles also make a return. New ways to play  Play using the Joy-Con controllers or the Nintendo Switch Pro Controller, both of which allow for gyro controls for better aiming and control. New Trends  Two years have passed since the release of Splatoon in real life, and two years have also passed in the game world. Some familiar characters return under different circumstances, and new characters are introduced as well. Fresh Updates - Similar to Splatoon for Wii U, updates will roll out post-launch, adding new content. Smart Device Support  An upcoming smart-phone application for the Nintendo Switch system will enhance matchmaking and allow for voice chat options. Turf War  Iconic 4 vs. 4 Turf War battles return. The goal is to splat ink on as much territory as possible, while strategically submerging yourself in your team's colors and blasting your enemies.",
+        "AgeRating": 7,
+        "category": [
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/splatoon-2"
     },
     "0100F8F0000A3065": {
         "id": "0100F8F0000A3065",
@@ -69624,6 +72671,21 @@
             "Mild Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/doggie-ninja-the-golden-mission"
+    },
+    "0100F9700BE96000": {
+        "id": "0100F9700BE96000",
+        "nsuId": 70030000004661,
+        "name": "Hyper Sentinel",
+        "eshop_name": "Hyper Sentinel (\u4f53\u9a13\u7248)",
+        "metacritic_platform": "switch",
+        "metascore": "71",
+        "userscore": null,
+        "release": "20180511",
+        "description": "A face-melting, pixel-pumping, Neo-Retro arcade shoot 'em up featuring awesome power-ups, epic boss battles and spectacular effects at a blistering 60fps. Blast through hordes of Alienoids in Arcade Mode, tackle endless waves of invaders in Survival Mode and battle epic level guardians in Boss Run mode.",
+        "AgeRating": 0,
+        "category": null,
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/hyper-sentinel"
     },
     "0100F9700C73E000": {
         "id": "0100F9700C73E000",
